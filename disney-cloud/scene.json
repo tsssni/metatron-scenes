@@ -1,0 +1,224 @@
+[
+    {
+        "entity": "/hierarchy/camera",
+        "type": "transform",
+        "serialized": {
+            "position": [
+                648.064,
+                -82.473,
+                63.856
+            ],
+            "look_at": [
+                6.021,
+                100.043,
+                43.679
+            ],
+            "up": [
+                0.273,
+                0.962,
+                0.009
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/bound",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                -9.984,
+                73.008,
+                42.64
+            ],
+            "scaling": [
+                297.88799525010864,
+                202.49183967152402,
+                367.18520260436355
+            ],
+            "rotation": [
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/medium/cloud",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scaling": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/light/env",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scaling": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "entity": "/spectrum/sigma-a",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0,
+                0,
+                0
+            ],
+            "type": "unbounded",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/spectrum/sigma-s",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                1,
+                1,
+                1
+            ],
+            "type": "unbounded",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/spectrum/sigma-e",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0,
+                0,
+                0
+            ],
+            "type": "illuminant",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/shape/sphere",
+        "type": "shape",
+        "serialized": {
+            "sphere": 0
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/bound",
+        "type": "shape_instance",
+        "serialized": {
+            "path": "/shape/sphere"
+        }
+    },
+    {
+        "entity": "/medium/cloud",
+        "type": "medium",
+        "serialized": {
+            "path": "volume/disney-cloud.nvdb",
+            "phase": {
+                "g": 0.877,
+                "henyey_greenstein": 0
+            },
+            "sigma_a": "/spectrum/sigma-a",
+            "sigma_s": "/spectrum/sigma-s",
+            "sigma_e": "/spectrum/sigma-e",
+            "density_scale": 4,
+            "grid": 0
+        }
+    },
+    {
+        "entity": "/hierarchy/medium/cloud",
+        "type": "medium_instance",
+        "serialized": {
+            "path": "/medium/cloud"
+        }
+    },
+    {
+        "entity": "/texture/env",
+        "type": "texture",
+        "serialized": {
+            "path": "texture/env.exr",
+            "type": "illuminant",
+            "image_spectrum": 0
+        }
+    },
+    {
+        "entity": "/hierarchy/light/env",
+        "type": "light",
+        "serialized": {
+            "env_map": "/texture/env",
+            "environment": 0
+        }
+    },
+    {
+        "entity": "/material/cloud",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "interface": 0
+            },
+            "spectrum_textures": {},
+            "vector_textures": {}
+        }
+    },
+    {
+        "entity": "/divider/cloud",
+        "type": "divider",
+        "serialized": {
+          "shape": "/hierarchy/shape/bound",
+          "int_medium": "/hierarchy/medium/cloud",
+          "material": "/material/cloud"
+        }
+    },
+    {
+        "entity": "/hierarchy/camera",
+        "type": "camera",
+        "serialized": {
+            "lens": {
+                "aperture": 5.6,
+                "focal_length": 0.02,
+                "focus_distance": 10.0,
+                "thin": 0
+            },
+            "spp": 1024,
+            "depth": 100
+        }
+    },
+    {
+        "entity": "/tracer",
+        "type": "tracer",
+        "serialized": {}
+    }
+]
