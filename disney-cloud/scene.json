@@ -154,7 +154,7 @@
             "sigma_a": "/spectrum/sigma-a",
             "sigma_s": "/spectrum/sigma-s",
             "sigma_e": "/spectrum/sigma-e",
-            "density_scale": 4,
+            "density_scale": 1,
             "grid": 0
         }
     },
@@ -212,7 +212,7 @@
                 "focus_distance": 10.0,
                 "thin": 0
             },
-            "spp": 1024,
+            "spp": 256,
             "depth": 100
         }
     },
