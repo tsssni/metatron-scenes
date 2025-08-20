@@ -1,0 +1,620 @@
+[
+    {
+        "entity": "/hierarchy/medium/Tea",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/light/env",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                -0.55,
+                0.0,
+                0.83
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/0",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                15.0,
+                15.0,
+                15.0
+            ],
+            "rotation": [
+                0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/1",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/2",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/3",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/4",
+        "type": "transform",
+        "serialized": {
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaling": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "entity": "/hierarchy/camera",
+        "type": "transform",
+        "serialized": {
+            "position": [
+                23.1701,
+                15.7142,
+                0.172476
+            ],
+            "look_at": [
+                -0.924285,
+                2.22805,
+                0.037163
+            ],
+            "up": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "entity": "/spectrum/Tea/sigma-a",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0.1486,
+                0.321,
+                0.736
+            ],
+            "type": "unbounded",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/spectrum/Tea/sigma-s",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "unbounded",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/spectrum/Tea/sigma-e",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "illuminant",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/spectrum/0/x",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0.725,
+                0.71,
+                0.68
+            ],
+            "type": "albedo",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+    {
+        "entity": "/spectrum/0/y",
+        "type": "spectrum",
+        "serialized": {
+            "c": [
+                0.325,
+                0.31,
+                0.25
+            ],
+            "type": "albedo",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
+        }
+    },
+
+    {
+        "entity": "/spectrum/1/eta",
+        "type": "spectrum",
+        "serialized": {
+            "x": 1.5,
+            "constant": 0
+        }
+    },
+    {
+        "entity": "/spectrum/2/eta",
+        "type": "spectrum",
+        "serialized": {
+            "x": 1.5,
+            "constant": 0
+        }
+    },
+    {
+        "entity": "/spectrum/3/eta",
+        "type": "spectrum",
+        "serialized": {
+            "x": 1.33,
+            "constant": 0
+        }
+    },
+    {
+        "entity": "/spectrum/4/eta",
+        "type": "spectrum",
+        "serialized": {
+            "x": 1.13,
+            "constant": 0
+        }
+    },
+    {
+        "entity": "/shape/0",
+        "type": "shape",
+        "serialized": {
+            "path": "model/floor.obj",
+            "mesh": 0
+        }
+    },
+    {
+        "entity": "/shape/1",
+        "type": "shape",
+        "serialized": {
+            "path": "model/Mesh003.obj",
+            "mesh": 0
+        }
+    },
+    {
+        "entity": "/shape/2",
+        "type": "shape",
+        "serialized": {
+            "path": "model/Mesh001.obj",
+            "mesh": 0
+        }
+    },
+    {
+        "entity": "/shape/3",
+        "type": "shape",
+        "serialized": {
+            "path": "model/Mesh002.obj",
+            "mesh": 0
+        }
+    },
+    {
+        "entity": "/shape/4",
+        "type": "shape",
+        "serialized": {
+            "path": "model/Mesh000.obj",
+            "mesh": 0
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/0",
+        "type": "shape_instance",
+        "serialized": {
+            "path": "/shape/0"
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/1",
+        "type": "shape_instance",
+        "serialized": {
+            "path": "/shape/1"
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/2",
+        "type": "shape_instance",
+        "serialized": {
+            "path": "/shape/2"
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/3",
+        "type": "shape_instance",
+        "serialized": {
+            "path": "/shape/3"
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/4",
+        "type": "shape_instance",
+        "serialized": {
+            "path": "/shape/4"
+        }
+    },
+    {
+        "entity": "/medium/Tea",
+        "type": "medium",
+        "serialized": {
+            "phase": {
+                "g": 0.0,
+                "henyey_greenstein": 0
+            },
+            "sigma_a": "/spectrum/Tea/sigma-a",
+            "sigma_s": "/spectrum/Tea/sigma-s",
+            "sigma_e": "/spectrum/Tea/sigma-e",
+            "homogeneous": 0
+        }
+    },
+    {
+        "entity": "/hierarchy/medium/Tea",
+        "type": "medium_instance",
+        "serialized": {
+            "path": "/medium/Tea"
+        }
+    },
+    {
+        "entity": "/texture/env",
+        "type": "texture",
+        "serialized": {
+            "path": "texture/env.hdr",
+            "type": "illuminant",
+            "image_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/0/reflectance",
+        "type": "texture",
+        "serialized": {
+            "x": "/spectrum/0/x",
+            "y": "/spectrum/0/y",
+            "checkerboard": 0
+        }
+    },
+    {
+        "entity": "/texture/1/eta",
+        "type": "texture",
+        "serialized": {
+            "spectrum": "/spectrum/1/eta",
+            "constant_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/1/alpha",
+        "type": "texture",
+        "serialized": {
+            "x": [
+                0.001,
+                0.001,
+                0.001,
+                0.001
+            ],
+            "constant_vector": 0
+        }
+    },
+    {
+        "entity": "/texture/2/eta",
+        "type": "texture",
+        "serialized": {
+            "spectrum": "/spectrum/2/eta",
+            "constant_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/2/alpha",
+        "type": "texture",
+        "serialized": {
+            "x": [
+                0.001,
+                0.001,
+                0.001,
+                0.001
+            ],
+            "constant_vector": 0
+        }
+    },
+    {
+        "entity": "/texture/3/eta",
+        "type": "texture",
+        "serialized": {
+            "spectrum": "/spectrum/3/eta",
+            "constant_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/3/alpha",
+        "type": "texture",
+        "serialized": {
+            "x": [
+                0.001,
+                0.001,
+                0.001,
+                0.001
+            ],
+            "constant_vector": 0
+        }
+    },
+    {
+        "entity": "/texture/4/eta",
+        "type": "texture",
+        "serialized": {
+            "spectrum": "/spectrum/4/eta",
+            "constant_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/4/alpha",
+        "type": "texture",
+        "serialized": {
+            "x": [
+                0.001,
+                0.001,
+                0.001,
+                0.001
+            ],
+            "constant_vector": 0
+        }
+    },
+    {
+        "entity": "/material/0",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "lambertian": 0
+            },
+            "spectrum_textures": {
+                "reflectance": "/texture/0/reflectance"
+            },
+            "vector_textures": {}
+        }
+    },
+    {
+        "entity": "/material/1",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "microfacet": 0
+            },
+            "spectrum_textures": {
+                "eta": "/texture/1/eta"
+            },
+            "vector_textures": {
+                "alpha": "/texture/1/alpha"
+            }
+        }
+    },
+    {
+        "entity": "/material/2",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "microfacet": 0
+            },
+            "spectrum_textures": {
+                "eta": "/texture/2/eta"
+            },
+            "vector_textures": {
+                "alpha": "/texture/2/alpha"
+            }
+        }
+    },
+    {
+        "entity": "/material/3",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "microfacet": 0
+            },
+            "spectrum_textures": {
+                "eta": "/texture/3/eta"
+            },
+            "vector_textures": {
+                "alpha": "/texture/3/alpha"
+            }
+        }
+    },
+    {
+        "entity": "/material/4",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "microfacet": 0
+            },
+            "spectrum_textures": {
+                "eta": "/texture/4/eta"
+            },
+            "vector_textures": {
+                "alpha": "/texture/4/alpha"
+            }
+        }
+    },
+    {
+        "entity": "/divider/0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/hierarchy/shape/0",
+            "material": "/material/0"
+        }
+    },
+    {
+        "entity": "/divider/1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/hierarchy/shape/1",
+            "material": "/material/1"
+        }
+    },
+    {
+        "entity": "/divider/2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/hierarchy/shape/2",
+            "material": "/material/2"
+        }
+    },
+    {
+        "entity": "/divider/3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/hierarchy/shape/3",
+            "int_medium": "/hierarchy/medium/Tea",
+            "material": "/material/3"
+        }
+    },
+    {
+        "entity": "/divider/4",
+        "type": "divider",
+        "serialized": {
+            "shape": "/hierarchy/shape/4",
+            "ext_medium": "/hierarchy/medium/Tea",
+            "material": "/material/4"
+        }
+    },
+    {
+        "entity": "/hierarchy/light/env",
+        "type": "light",
+        "serialized": {
+            "env_map": "/texture/env",
+            "environment": 0
+        }
+    },
+    {
+        "entity": "/hierarchy/camera",
+        "type": "camera",
+        "serialized": {
+            "lens": {
+                "aperture": 5.6,
+                "focal_length": 0.05,
+                "focus_distance": 10.0,
+                "thin": 0
+            },
+            "spp": 256,
+            "depth": 100
+        }
+    },
+    {
+        "entity": "/tracer",
+        "type": "tracer",
+        "serialized": {}
+    }
+]
