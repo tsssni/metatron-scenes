@@ -11,6 +11,14 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 
 ![disney-cloud](https://github.com/tsssni/metatron-scenes/raw/master/disney-cloud/disney-cloud.png)
 
+## Japanese Classroom
+
+- Credit: [NovaAshbell](https://blendswap.com/blend/13632)([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Resolution: 1280x720
+- Samples: 1024
+
+![japanese-classroom](https://github.com/tsssni/metatron-scenes/raw/master/japanese-classroom/japanese-classroom.png)
+
 ## Teapot
 
 - Credit: [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))
