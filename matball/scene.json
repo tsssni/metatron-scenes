@@ -314,7 +314,7 @@
         "entity": "/hierarchy/medium/medium",
         "type": "medium_instance",
         "serialized": {
-            "path": "/medium/medium"
+            "path": "/medium/vaccum"
         }
     },
     {
@@ -382,6 +382,7 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/base",
+            "int_medium": "/hierarchy/medium/medium",
             "material": "/material/matball"
         }
     },
@@ -390,6 +391,7 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/outer",
+            "int_medium": "/hierarchy/medium/medium",
             "material": "/material/matball"
         }
     },
@@ -398,6 +400,7 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/inner",
+            "int_medium": "/hierarchy/medium/medium",
             "material": "/material/matball"
         }
     },
