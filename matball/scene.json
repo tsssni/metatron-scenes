@@ -223,20 +223,7 @@
         }
     },
     {
-        "entity": "/spectrum/outer/reflectance",
-        "type": "spectrum",
-        "serialized": {
-            "c": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },{
-        "entity": "/spectrum/inner/reflectance",
+        "entity": "/spectrum/matball/reflectance",
         "type": "spectrum",
         "serialized": {
             "c": [
@@ -349,18 +336,10 @@
         }
     },
     {
-        "entity": "/texture/outer/reflectance",
+        "entity": "/texture/matball/reflectance",
         "type": "texture",
         "serialized": {
-            "spectrum": "/spectrum/outer/reflectance",
-            "constant_spectrum": 0
-        }
-    },
-    {
-        "entity": "/texture/inner/reflectance",
-        "type": "texture",
-        "serialized": {
-            "spectrum": "/spectrum/inner/reflectance",
+            "spectrum": "/spectrum/matball/reflectance",
             "constant_spectrum": 0
         }
     },
@@ -378,27 +357,14 @@
         }
     },
     {
-        "entity": "/material/outer",
+        "entity": "/material/matball",
         "type": "material",
         "serialized": {
             "bsdf": {
                 "lambertian": 0
             },
             "spectrum_textures": {
-                "reflectance": "/texture/outer/reflectance"
-            },
-            "vector_textures": {}
-        }
-    },
-    {
-        "entity": "/material/inner",
-        "type": "material",
-        "serialized": {
-            "bsdf": {
-                "lambertian": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/inner/reflectance"
+                "reflectance": "/texture/matball/reflectance"
             },
             "vector_textures": {}
         }
@@ -416,7 +382,7 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/base",
-            "material": "/material/outer"
+            "material": "/material/matball"
         }
     },
     {
@@ -424,7 +390,7 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/outer",
-            "material": "/material/outer"
+            "material": "/material/matball"
         }
     },
     {
@@ -432,7 +398,7 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/inner",
-            "material": "/material/inner"
+            "material": "/material/matball"
         }
     },
     {
