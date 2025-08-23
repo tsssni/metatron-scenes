@@ -19,6 +19,14 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 
 ![japanese-classroom](https://github.com/tsssni/metatron-scenes/raw/master/japanese-classroom/japanese-classroom.png)
 
+## Matball
+
+- Credit: [RadeonProRenderSDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderSDK)([Apache 2.0](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderSDK/blob/master/license.txt))
+- Resolution: 1280x720
+- Samples: 1024
+
+![japanese-classroom](https://github.com/tsssni/metatron-scenes/raw/master/matball/matball.png)
+
 ## Teapot
 
 - Credit: [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))
