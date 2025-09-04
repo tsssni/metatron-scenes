@@ -1752,32 +1752,10 @@
                 1.0
             ],
             "rotation": [
-                0.5962216198265455,
-                0.28092246582310054,
-                0.482521866670909,
-                0.5768499080624876
-            ]
-        }
-    },
-    {
-        "entity": "/hierarchy/light/80",
-        "type": "transform",
-        "serialized": {
-            "translation": [
                 0.0,
                 0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
+                0.0,
                 1.0
-            ],
-            "rotation": [
-                0.013698000116007622,
-                -0.14255367051888593,
-                0.5398418416730375,
-                0.8294947870803516
             ]
         }
     },
@@ -2330,34 +2308,6 @@
                 0.612066
             ],
             "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
-        "entity": "/spectrum/79/emission",
-        "type": "spectrum",
-        "serialized": {
-            "c": [
-                2.0,
-                0.8,
-                0.2
-            ],
-            "type": "illuminant",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
-        "entity": "/spectrum/80/emission",
-        "type": "spectrum",
-        "serialized": {
-            "c": [
-                1.0,
-                0.5,
-                0.6
-            ],
-            "type": "illuminant",
             "color_space": "/color-space/sRGB",
             "rgb": 0
         }
@@ -3918,14 +3868,6 @@
         }
     },
     {
-        "entity": "/texture/80/emission",
-        "type": "texture",
-        "serialized": {
-            "spectrum": "/spectrum/80/emission",
-            "constant_spectrum": 0
-        }
-    },
-    {
         "entity": "/material/Walls",
         "type": "material",
         "serialized": {
@@ -5142,16 +5084,14 @@
         "entity": "/hierarchy/light/79",
         "type": "light",
         "serialized": {
-            "spectrum": "/spectrum/79/emission",
-            "parallel": 0
-        }
-    },
-    {
-        "entity": "/hierarchy/light/80",
-        "type": "light",
-        "serialized": {
-            "env_map": "/texture/80/emission",
-            "environment": 0
+            "direction": [
+                1.45,
+                3.6
+            ],
+            "turbidity": 1,
+            "albedo": 1.0,
+            "aperture": 0.2,
+            "sunsky": 0
         }
     },
     {
