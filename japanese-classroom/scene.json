@@ -5085,11 +5085,11 @@
         "type": "light",
         "serialized": {
             "direction": [
-                1.45,
+                1.4,
                 3.6
             ],
-            "turbidity": 1,
-            "albedo": 1.0,
+            "turbidity": 4,
+            "albedo": 0.2,
             "aperture": 0.2,
             "sunsky": 0
         }
