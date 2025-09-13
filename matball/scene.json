@@ -348,7 +348,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/floor/reflectance"
@@ -361,7 +361,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/matball/reflectance"

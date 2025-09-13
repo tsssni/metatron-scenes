@@ -3872,7 +3872,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Walls/reflectance"
@@ -3885,7 +3885,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Lectern/reflectance"
@@ -3898,7 +3898,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/FlagRed/reflectance"
@@ -3911,7 +3911,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/FlagWhite/reflectance"
@@ -3924,7 +3924,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/FlagBase/reflectance"
@@ -3937,7 +3937,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/ChalkHolder/reflectance"
@@ -3950,7 +3950,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/ProjectorScreen/reflectance"
@@ -3963,7 +3963,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote1/reflectance"
@@ -3976,7 +3976,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Whiteboard/reflectance"
@@ -3989,7 +3989,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote7/reflectance"
@@ -4002,7 +4002,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote8/reflectance"
@@ -4015,7 +4015,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Bin2/reflectance"
@@ -4028,7 +4028,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Boxes2/reflectance"
@@ -4041,7 +4041,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Boxes1/reflectance"
@@ -4054,7 +4054,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote4/reflectance"
@@ -4067,7 +4067,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Whiteboard2/reflectance"
@@ -4080,7 +4080,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/BluePencil/reflectance"
@@ -4093,7 +4093,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/GreenPencil/reflectance"
@@ -4106,7 +4106,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/RedPencil/reflectance"
@@ -4119,7 +4119,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Bookshelf/reflectance"
@@ -4132,7 +4132,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Hallway/reflectance"
@@ -4145,7 +4145,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/CeilingLight/reflectance"
@@ -4158,7 +4158,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Black/reflectance"
@@ -4171,7 +4171,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/BlackPlastic/reflectance"
@@ -4184,7 +4184,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Projector/reflectance"
@@ -4197,7 +4197,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/ScreenEnds/reflectance"
@@ -4210,7 +4210,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/FoamEraser/reflectance"
@@ -4223,7 +4223,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Whiteboard3/reflectance"
@@ -4236,7 +4236,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/ChairWood/reflectance"
@@ -4249,7 +4249,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/eta/Al",
@@ -4265,7 +4265,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/eta/Al",
@@ -4281,7 +4281,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Floor/reflectance"
@@ -4294,7 +4294,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/WoodFrame/reflectance"
@@ -4307,7 +4307,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/WhiteboardFrame/reflectance"
@@ -4320,7 +4320,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote3/reflectance"
@@ -4333,7 +4333,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote5/reflectance"
@@ -4346,7 +4346,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote6/reflectance"
@@ -4359,7 +4359,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Speakers/reflectance"
@@ -4372,7 +4372,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Wall/reflectance"
@@ -4385,7 +4385,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/eta/Al",
@@ -4401,7 +4401,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Bin1/reflectance"
@@ -4414,7 +4414,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/Rubber/reflectance"
@@ -4427,7 +4427,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/FluorescentTube/reflectance"
@@ -4440,7 +4440,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/StickyNote2/reflectance"

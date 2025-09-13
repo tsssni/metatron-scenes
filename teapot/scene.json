@@ -479,7 +479,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "lambertian": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "reflectance": "/texture/0/reflectance"
@@ -492,7 +492,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/1/eta"
@@ -507,7 +507,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/2/eta"
@@ -522,7 +522,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/3/eta"
@@ -537,7 +537,7 @@
         "type": "material",
         "serialized": {
             "bsdf": {
-                "microfacet": 0
+                "physical": 0
             },
             "spectrum_textures": {
                 "eta": "/texture/4/eta"
