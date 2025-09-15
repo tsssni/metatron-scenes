@@ -604,9 +604,9 @@
             "lens": {
                 "aperture": 5.6,
                 "focal_length": 0.05,
-                "focus_distance": 10.0,
+                "focus_distance": 10.0
             },
-            "spp": 256,
+            "spp": 1024,
             "depth": 100
         }
     },

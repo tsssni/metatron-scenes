@@ -31,6 +31,6 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 
 - Credit: [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))
 - Resolution: 1280x720
-- Samples: 256
+- Samples: 1024
 
 ![teapot](https://github.com/tsssni/metatron-scenes/raw/master/teapot/teapot.png)
