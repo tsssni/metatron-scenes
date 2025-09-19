@@ -154,7 +154,7 @@
             "sigma_a": "/spectrum/sigma-a",
             "sigma_s": "/spectrum/sigma-s",
             "sigma_e": "/spectrum/sigma-e",
-            "density_scale": 1,
+            "density_scale": 4,
             "grid": 0
         }
     },
@@ -206,14 +206,14 @@
         "entity": "/hierarchy/camera",
         "type": "camera",
         "serialized": {
+            "spp": 1024,
+            "depth": 100,
             "lens": {
                 "aperture": 5.6,
                 "focal_length": 0.02,
                 "focus_distance": 10.0,
                 "thin": 0
-            },
-            "spp": 1024,
-            "depth": 100
+            }
         }
     },
     {
