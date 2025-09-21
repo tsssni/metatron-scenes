@@ -5245,12 +5245,14 @@
         "type": "light",
         "serialized": {
             "direction": [
-                1.4,
-                3.6
+                1.1409112905665093,
+                2.946030511301836
             ],
-            "turbidity": 4,
+            "turbidity": 3.0,
             "albedo": 0.2,
-            "aperture": 0.2,
+            "aperture": 0.17453292519943295,
+            "temperature": 5777.0,
+            "intensity": 6.0,
             "sunsky": 0
         }
     },
