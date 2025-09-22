@@ -171,9 +171,9 @@
         "type": "spectrum",
         "serialized": {
             "c": [
-                0.0,
-                0.4,
-                1.0
+                0.2,
+                0.6,
+                0.8
             ],
             "type": "unbounded",
             "color_space": "/color-space/sRGB",
@@ -223,17 +223,11 @@
         }
     },
     {
-        "entity": "/spectrum/matball/reflectance",
+        "entity": "/spectrum/matball/eta",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "x": 1.5,
+            "constant": 0
         }
     },
     {
@@ -314,7 +308,7 @@
         "entity": "/hierarchy/medium/medium",
         "type": "medium_instance",
         "serialized": {
-            "path": "/medium/vaccum"
+            "path": "/medium/medium"
         }
     },
     {
@@ -336,11 +330,41 @@
         }
     },
     {
-        "entity": "/texture/matball/reflectance",
+        "entity": "/texture/matball/eta",
         "type": "texture",
         "serialized": {
-            "spectrum": "/spectrum/matball/reflectance",
+            "spectrum": "/spectrum/matball/eta",
             "constant_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/matball/alpha",
+        "type": "texture",
+        "serialized": {
+            "x": [
+                0.2,
+                0.2,
+                0.2,
+                0.2
+            ],
+            "constant_vector": 0
+        }
+    },
+    {
+        "entity": "/texture/uv/reflectance",
+        "type": "texture",
+        "serialized": {
+            "path": "texture/uv.png",
+            "type": "albedo",
+            "image_spectrum": 0
+        }
+    },
+    {
+        "entity": "/texture/matball/normal",
+        "type": "texture",
+        "serialized": {
+            "path": "texture/normal.jpg",
+            "image_vector": 0
         }
     },
     {
@@ -357,6 +381,19 @@
         }
     },
     {
+        "entity": "/material/uv",
+        "type": "material",
+        "serialized": {
+            "bsdf": {
+                "physical": 0
+            },
+            "spectrum_textures": {
+                "reflectance": "/texture/uv/reflectance"
+            },
+            "vector_textures": {}
+        }
+    },
+    {
         "entity": "/material/matball",
         "type": "material",
         "serialized": {
@@ -364,9 +401,12 @@
                 "physical": 0
             },
             "spectrum_textures": {
-                "reflectance": "/texture/matball/reflectance"
+                "eta": "/texture/matball/eta"
             },
-            "vector_textures": {}
+            "vector_textures": {
+                "alpha": "/texture/matball/alpha",
+                "normal": "/texture/matball/normal"
+            }
         }
     },
     {
