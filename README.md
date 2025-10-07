@@ -11,6 +11,15 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 
 ![disney-cloud](https://github.com/tsssni/metatron-scenes/raw/master/disney-cloud/disney-cloud.png)
 
+## Dispersion
+
+- Credit: [RadeonProRenderSDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderSDK)([Apache 2.0](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderSDK/blob/master/license.txt))
+- Resolution: 1280x720
+- Samples: 8192
+- Tonemapping: GIMP Mantiuk 2006 (contrast = 0.1, saturation = 2.0, detail = 1.0, exposure = 0.5)
+
+![dispersion](https://github.com/tsssni/metatron-scenes/raw/master/dispersion/dispersion.png)
+
 ## Japanese Classroom
 
 - Credit: [NovaAshbell](https://blendswap.com/blend/13632)([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
@@ -18,14 +27,6 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 - Samples: 1024
 
 ![japanese-classroom](https://github.com/tsssni/metatron-scenes/raw/master/japanese-classroom/japanese-classroom.png)
-
-## Matball
-
-- Credit: [RadeonProRenderSDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderSDK)([Apache 2.0](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderSDK/blob/master/license.txt))
-- Resolution: 1280x720
-- Samples: 1024
-
-![japanese-classroom](https://github.com/tsssni/metatron-scenes/raw/master/matball/matball.png)
 
 ## Teapot
 

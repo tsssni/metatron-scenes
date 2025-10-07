@@ -378,6 +378,7 @@
         "serialized": {
             "path": "texture/env.hdr",
             "type": "illuminant",
+            "distr": "spherical",
             "image_spectrum": 0
         }
     },
@@ -606,7 +607,8 @@
                 "focal_length": 0.05,
                 "focus_distance": 10.0
             },
-            "spp": 1024,
+            "image_size": [540, 360],
+            "spp": 256,
             "depth": 100
         }
     },

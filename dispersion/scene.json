@@ -1,27 +1,5 @@
 [
     {
-        "entity": "/hierarchy/medium/medium",
-        "type": "transform",
-        "serialized": {
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "rotation": [
-                0.0,
-                0.0,
-                0.0,
-                1.0
-            ]
-        }
-    },
-    {
         "entity": "/hierarchy/light/env",
         "type": "transform",
         "serialized": {
@@ -37,9 +15,9 @@
             ],
             "rotation": [
                 0.0,
+                1.0,
                 0.0,
-                0.0,
-                1.0
+                0.0
             ]
         }
     },
@@ -66,7 +44,7 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/base",
+        "entity": "/hierarchy/shape/inner",
         "type": "transform",
         "serialized": {
             "translation": [
@@ -110,7 +88,7 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/inner",
+        "entity": "/hierarchy/shape/base",
         "type": "transform",
         "serialized": {
             "translation": [
@@ -153,48 +131,6 @@
         }
     },
     {
-        "entity": "/spectrum/medium/sigma-a",
-        "type": "spectrum",
-        "serialized": {
-            "c": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "type": "unbounded",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
-        "entity": "/spectrum/medium/sigma-s",
-        "type": "spectrum",
-        "serialized": {
-            "c": [
-                0.2,
-                0.6,
-                0.8
-            ],
-            "type": "unbounded",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
-        "entity": "/spectrum/medium/sigma-e",
-        "type": "spectrum",
-        "serialized": {
-            "c": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "type": "illuminant",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
         "entity": "/spectrum/floor/x",
         "type": "spectrum",
         "serialized": {
@@ -223,11 +159,17 @@
         }
     },
     {
-        "entity": "/spectrum/matball/eta",
+        "entity": "/spectrum/kernel/reflectance",
         "type": "spectrum",
         "serialized": {
-            "x": 1.5,
-            "constant": 0
+            "c": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "type": "albedo",
+            "color_space": "/color-space/sRGB",
+            "rgb": 0
         }
     },
     {
@@ -235,22 +177,6 @@
         "type": "shape",
         "serialized": {
             "path": "model/floor.obj",
-            "mesh": 0
-        }
-    },
-    {
-        "entity": "/shape/base",
-        "type": "shape",
-        "serialized": {
-            "path": "model/base.obj",
-            "mesh": 0
-        }
-    },
-    {
-        "entity": "/shape/outer",
-        "type": "shape",
-        "serialized": {
-            "path": "model/outer.obj",
             "mesh": 0
         }
     },
@@ -263,24 +189,26 @@
         }
     },
     {
+        "entity": "/shape/outer",
+        "type": "shape",
+        "serialized": {
+            "path": "model/outer.obj",
+            "mesh": 0
+        }
+    },
+    {
+        "entity": "/shape/base",
+        "type": "shape",
+        "serialized": {
+            "path": "model/base.obj",
+            "mesh": 0
+        }
+    },
+    {
         "entity": "/hierarchy/shape/floor",
         "type": "shape_instance",
         "serialized": {
             "path": "/shape/floor"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/base",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/base"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/outer",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/outer"
         }
     },
     {
@@ -291,24 +219,17 @@
         }
     },
     {
-        "entity": "/medium/medium",
-        "type": "medium",
+        "entity": "/hierarchy/shape/outer",
+        "type": "shape_instance",
         "serialized": {
-            "phase": {
-                "g": 0.0,
-                "henyey_greenstein": 0
-            },
-            "sigma_a": "/spectrum/medium/sigma-a",
-            "sigma_s": "/spectrum/medium/sigma-s",
-            "sigma_e": "/spectrum/medium/sigma-e",
-            "homogeneous": 0
+            "path": "/shape/outer"
         }
     },
     {
-        "entity": "/hierarchy/medium/medium",
-        "type": "medium_instance",
+        "entity": "/hierarchy/shape/base",
+        "type": "shape_instance",
         "serialized": {
-            "path": "/medium/medium"
+            "path": "/shape/base"
         }
     },
     {
@@ -317,6 +238,7 @@
         "serialized": {
             "path": "texture/env.exr",
             "type": "illuminant",
+            "distr": "spherical",
             "image_spectrum": 0
         }
     },
@@ -330,41 +252,24 @@
         }
     },
     {
-        "entity": "/texture/matball/eta",
-        "type": "texture",
-        "serialized": {
-            "spectrum": "/spectrum/matball/eta",
-            "constant_spectrum": 0
-        }
-    },
-    {
-        "entity": "/texture/matball/alpha",
+        "entity": "/texture/shell/alpha",
         "type": "texture",
         "serialized": {
             "x": [
-                0.2,
-                0.2,
-                0.2,
-                0.2
+                0.01,
+                0.01,
+                0.01,
+                0.01
             ],
             "constant_vector": 0
         }
     },
     {
-        "entity": "/texture/uv/reflectance",
+        "entity": "/texture/kernel/reflectance",
         "type": "texture",
         "serialized": {
-            "path": "texture/uv.png",
-            "type": "albedo",
-            "image_spectrum": 0
-        }
-    },
-    {
-        "entity": "/texture/matball/normal",
-        "type": "texture",
-        "serialized": {
-            "path": "texture/normal.jpg",
-            "image_vector": 0
+            "spectrum": "/spectrum/kernel/reflectance",
+            "constant_spectrum": 0
         }
     },
     {
@@ -381,32 +286,31 @@
         }
     },
     {
-        "entity": "/material/uv",
+        "entity": "/material/shell",
         "type": "material",
         "serialized": {
             "bsdf": {
                 "physical": 0
             },
             "spectrum_textures": {
-                "reflectance": "/texture/uv/reflectance"
+                "eta": "/texture/eta/glass-SF11"
             },
-            "vector_textures": {}
+            "vector_textures": {
+                "alpha": "/texture/shell/alpha"
+            }
         }
     },
     {
-        "entity": "/material/matball",
+        "entity": "/material/kernel",
         "type": "material",
         "serialized": {
             "bsdf": {
                 "physical": 0
             },
             "spectrum_textures": {
-                "eta": "/texture/matball/eta"
+                "reflectance": "/texture/kernel/reflectance"
             },
-            "vector_textures": {
-                "alpha": "/texture/matball/alpha",
-                "normal": "/texture/matball/normal"
-            }
+            "vector_textures": {}
         }
     },
     {
@@ -418,12 +322,11 @@
         }
     },
     {
-        "entity": "/divider/base",
+        "entity": "/divider/inner",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/base",
-            "int_medium": "/hierarchy/medium/medium",
-            "material": "/material/matball"
+            "shape": "/hierarchy/shape/inner",
+            "material": "/material/kernel"
         }
     },
     {
@@ -431,17 +334,15 @@
         "type": "divider",
         "serialized": {
             "shape": "/hierarchy/shape/outer",
-            "int_medium": "/hierarchy/medium/medium",
-            "material": "/material/matball"
+            "material": "/material/shell"
         }
     },
     {
-        "entity": "/divider/inner",
+        "entity": "/divider/base",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/inner",
-            "int_medium": "/hierarchy/medium/medium",
-            "material": "/material/matball"
+            "shape": "/hierarchy/shape/base",
+            "material": "/material/shell"
         }
     },
     {
@@ -456,7 +357,7 @@
         "entity": "/hierarchy/camera",
         "type": "camera",
         "serialized": {
-            "spp": 1024
+            "spp": 8192
         }
     },
     {

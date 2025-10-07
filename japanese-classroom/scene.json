@@ -5248,11 +5248,11 @@
                 1.1409112905665093,
                 2.946030511301836
             ],
-            "turbidity": 3.0,
+            "turbidity": 1.0,
             "albedo": 0.2,
-            "aperture": 0.17453292519943295,
-            "temperature": 5777.0,
-            "intensity": 6.0,
+            "aperture": 0.1919,
+            "temperature": 114514,
+            "intensity": 6,
             "sunsky": 0
         }
     },
@@ -5260,7 +5260,7 @@
         "entity": "/hierarchy/camera",
         "type": "camera",
         "serialized": {
-            "spp": 1024,
+            "spp": 2048,
             "lens": {
                 "focal_length": 0.03
             }

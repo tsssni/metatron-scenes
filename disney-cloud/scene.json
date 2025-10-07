@@ -105,9 +105,9 @@
         "type": "spectrum",
         "serialized": {
             "c": [
-                1,
-                1,
-                1
+                1.0,
+                1.0,
+                1.0
             ],
             "type": "unbounded",
             "color_space": "/color-space/sRGB",
@@ -147,6 +147,11 @@
         "type": "medium",
         "serialized": {
             "path": "volume/disney-cloud.nvdb",
+            "dimensions": [
+                64,
+                64,
+                64
+            ],
             "phase": {
                 "g": 0.877,
                 "henyey_greenstein": 0
@@ -171,6 +176,7 @@
         "serialized": {
             "path": "texture/env.exr",
             "type": "illuminant",
+            "distr": "spherical",
             "image_spectrum": 0
         }
     },
