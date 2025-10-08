@@ -3,13 +3,21 @@ Metatron Scenes
 
 Scenes for [metatron](https://github.com/tsssni/metatron)
 
-## Disney Cloud
+## Classroom
+
+- Credit: [NovaAshbell](https://blendswap.com/blend/13632)([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Resolution: 1280x720
+- Samples: 2048
+
+![classroom](https://github.com/tsssni/metatron-scenes/raw/master/classroom/classroom.png)
+
+## Cloud
 
 - Credit: [Disney](https://media.disneyanimation.com/uploads/production/data_set_asset/1/asset/Cloud_Readme.pdf)([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), [Poly Heaven](https://polyhaven.com/a/the_sky_is_on_fire)([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
 - Resolution: 1280x720
 - Samples: 1024
 
-![disney-cloud](https://github.com/tsssni/metatron-scenes/raw/master/disney-cloud/disney-cloud.png)
+![cloud](https://github.com/tsssni/metatron-scenes/raw/master/cloud/cloud.png)
 
 ## Dispersion
 
@@ -19,14 +27,6 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 - Tonemapping: GIMP Mantiuk 2006 (contrast = 0.1, saturation = 2.0, detail = 1.0, exposure = 0.5)
 
 ![dispersion](https://github.com/tsssni/metatron-scenes/raw/master/dispersion/dispersion.png)
-
-## Japanese Classroom
-
-- Credit: [NovaAshbell](https://blendswap.com/blend/13632)([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Resolution: 1280x720
-- Samples: 1024
-
-![japanese-classroom](https://github.com/tsssni/metatron-scenes/raw/master/japanese-classroom/japanese-classroom.png)
 
 ## Teapot
 
