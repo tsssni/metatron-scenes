@@ -3,120 +3,52 @@
         "entity": "/hierarchy/camera",
         "type": "transform",
         "serialized": {
-            "position": [
-                648.064,
-                -82.473,
-                63.856
-            ],
-            "look_at": [
-                6.021,
-                100.043,
-                43.679
-            ],
-            "up": [
-                0.273,
-                0.962,
-                0.009
-            ]
+            "position": [648.064, -82.473, 63.856],
+            "look_at": [6.021, 100.043, 43.679],
+            "up": [0.273, 0.962, 0.009]
         }
     },
     {
         "entity": "/hierarchy/shape/ground",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0,
-                -1000,
-                0
-            ],
-            "scaling": [
-                10000,
-                10000,
-                10000
-            ],
-            "rotation": [
-                0,
-                0,
-                0,
-                1
-            ]
+            "translation": [0, -1000, 0],
+            "scaling": [10000, 10000, 10000],
+            "rotation": [0, 0, 0, 1]
         }
     },
     {
         "entity": "/hierarchy/shape/bound",
         "type": "transform",
         "serialized": {
-            "translation": [
-                -9.984,
-                73.008,
-                42.64
-            ],
-            "scaling": [
-                297.88799525010864,
-                202.49183967152402,
-                367.18520260436355
-            ],
-            "rotation": [
-                0,
-                0,
-                0,
-                1
-            ]
+            "translation": [-9.984, 73.008, 42.64],
+            "scaling": [297.88799525010864, 202.49183967152402, 367.18520260436355],
+            "rotation": [0, 0, 0, 1]
         }
     },
     {
         "entity": "/hierarchy/medium/cloud",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0,
-                0,
-                0
-            ],
-            "scaling": [
-                1,
-                1,
-                1
-            ],
-            "rotation": [
-                0,
-                0,
-                0,
-                1
-            ]
+            "translation": [0, 0, 0],
+            "scaling": [1, 1, 1],
+            "rotation": [0, 0, 0, 1]
         }
     },
     {
         "entity": "/hierarchy/light/sky",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0,
-                0,
-                0
-            ],
-            "scaling": [
-                1,
-                1,
-                1
-            ],
-            "rotation": [
-                0,
-                0,
-                0,
-                1
-            ]
+            "translation": [0, 0, 0],
+            "scaling": [1, 1, 1],
+            "rotation": [0, 0, 0, 1]
         }
     },
     {
         "entity": "/spectrum/reflectance",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                0.2,
-                0.2,
-                0.2
-            ],
+            "c": [0.2, 0.2, 0.2],
             "type": "albedo",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -126,11 +58,7 @@
         "entity": "/spectrum/sigma-a",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                0,
-                0,
-                0
-            ],
+            "c": [0, 0, 0],
             "type": "unbounded",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -140,11 +68,7 @@
         "entity": "/spectrum/sigma-s",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                1.0,
-                1.0,
-                1.0
-            ],
+            "c": [1.0, 1.0, 1.0],
             "type": "unbounded",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -154,11 +78,7 @@
         "entity": "/spectrum/sigma-e",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                0,
-                0,
-                0
-            ],
+            "c": [0, 0, 0],
             "type": "illuminant",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -198,11 +118,7 @@
         "type": "medium",
         "serialized": {
             "path": "volume/disney-cloud.nvdb",
-            "dimensions": [
-                64,
-                64,
-                64
-            ],
+            "dimensions": [64, 64, 64],
             "phase": {
                 "g": 0.877,
                 "henyey_greenstein": 0
@@ -257,27 +173,24 @@
         "entity": "/divider/ground",
         "type": "divider",
         "serialized": {
-          "shape": "/hierarchy/shape/ground",
-          "material": "/material/ground"
+            "shape": "/hierarchy/shape/ground",
+            "material": "/material/ground"
         }
     },
     {
         "entity": "/divider/cloud",
         "type": "divider",
         "serialized": {
-          "shape": "/hierarchy/shape/bound",
-          "int_medium": "/hierarchy/medium/cloud",
-          "material": "/material/cloud"
+            "shape": "/hierarchy/shape/bound",
+            "int_medium": "/hierarchy/medium/cloud",
+            "material": "/material/cloud"
         }
     },
     {
         "entity": "/hierarchy/light/sky",
         "type": "light",
         "serialized": {
-            "direction": [
-                0.6982009,
-                5.8468122
-            ],
+            "direction": [0.6982009, 5.8468122],
             "turbidity": 1.0,
             "albedo": 0.2,
             "aperture": 0.1919,

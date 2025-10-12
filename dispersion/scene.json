@@ -3,142 +3,61 @@
         "entity": "/hierarchy/light/env",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "rotation": [
-                0.0,
-                1.0,
-                0.0,
-                0.0
-            ]
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 1.0, 0.0, 0.0]
         }
     },
     {
         "entity": "/hierarchy/shape/floor",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "rotation": [
-                0.7071,
-                0.0,
-                0.0,
-                0.7071
-            ]
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
         }
     },
     {
         "entity": "/hierarchy/shape/inner",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "rotation": [
-                0.7071,
-                0.0,
-                0.0,
-                0.7071
-            ]
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
         }
     },
     {
         "entity": "/hierarchy/shape/outer",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "rotation": [
-                0.7071,
-                0.0,
-                0.0,
-                0.7071
-            ]
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
         }
     },
     {
         "entity": "/hierarchy/shape/base",
         "type": "transform",
         "serialized": {
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scaling": [
-                1.0,
-                1.0,
-                1.0
-            ],
-            "rotation": [
-                0.7071,
-                0.0,
-                0.0,
-                0.7071
-            ]
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
         }
     },
     {
         "entity": "/hierarchy/camera",
         "type": "transform",
         "serialized": {
-            "position": [
-                0,
-                1,
-                -1
-            ],
-            "look_at": [
-                0,
-                0,
-                0
-            ],
-            "up": [
-                0.0,
-                1.0,
-                0.0
-            ]
+            "position": [0, 1, -1],
+            "look_at": [0, 0, 0],
+            "up": [0.0, 1.0, 0.0]
         }
     },
     {
         "entity": "/spectrum/floor/x",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                0.725,
-                0.71,
-                0.68
-            ],
+            "c": [0.725, 0.71, 0.68],
             "type": "albedo",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -148,11 +67,7 @@
         "entity": "/spectrum/floor/y",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                0.325,
-                0.31,
-                0.25
-            ],
+            "c": [0.325, 0.31, 0.25],
             "type": "albedo",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -162,11 +77,7 @@
         "entity": "/spectrum/kernel/reflectance",
         "type": "spectrum",
         "serialized": {
-            "c": [
-                1.0,
-                1.0,
-                1.0
-            ],
+            "c": [1.0, 1.0, 1.0],
             "type": "albedo",
             "color_space": "/color-space/sRGB",
             "rgb": 0
@@ -255,12 +166,7 @@
         "entity": "/texture/shell/alpha",
         "type": "texture",
         "serialized": {
-            "x": [
-                0.01,
-                0.01,
-                0.01,
-                0.01
-            ],
+            "x": [0.01, 0.01, 0.01, 0.01],
             "constant_vector": 0
         }
     },
