@@ -1,7 +1,7 @@
 [
     {
         "entity": "/hierarchy/camera",
-        "type": "transform",
+        "type": "look_at_transform",
         "serialized": {
             "position": [648.064, -82.473, 63.856],
             "look_at": [6.021, 100.043, 43.679],
@@ -10,7 +10,7 @@
     },
     {
         "entity": "/hierarchy/shape/ground",
-        "type": "transform",
+        "type": "local_transform",
         "serialized": {
             "translation": [0, -1000, 0],
             "scaling": [10000, 10000, 10000],
@@ -19,7 +19,7 @@
     },
     {
         "entity": "/hierarchy/shape/bound",
-        "type": "transform",
+        "type": "local_transform",
         "serialized": {
             "translation": [-9.984, 73.008, 42.64],
             "scaling": [297.88799525010864, 202.49183967152402, 367.18520260436355],
@@ -28,7 +28,7 @@
     },
     {
         "entity": "/hierarchy/medium/cloud",
-        "type": "transform",
+        "type": "local_transform",
         "serialized": {
             "translation": [0, 0, 0],
             "scaling": [1, 1, 1],
@@ -37,7 +37,7 @@
     },
     {
         "entity": "/hierarchy/light/sky",
-        "type": "transform",
+        "type": "local_transform",
         "serialized": {
             "translation": [0, 0, 0],
             "scaling": [1, 1, 1],
@@ -46,169 +46,105 @@
     },
     {
         "entity": "/spectrum/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.2, 0.2, 0.2],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
-        "entity": "/spectrum/sigma-a",
-        "type": "spectrum",
-        "serialized": {
-            "c": [0, 0, 0],
-            "type": "unbounded",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/sigma-s",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [1.0, 1.0, 1.0],
-            "type": "unbounded",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
-        }
-    },
-    {
-        "entity": "/spectrum/sigma-e",
-        "type": "spectrum",
-        "serialized": {
-            "c": [0, 0, 0],
-            "type": "illuminant",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "unbounded"
         }
     },
     {
         "entity": "/shape/square",
-        "type": "shape",
+        "type": "mesh",
         "serialized": {
-            "path": "model/square.obj",
-            "mesh": 0
+            "path": "model/square.obj"
         }
     },
     {
         "entity": "/shape/sphere",
-        "type": "shape",
-        "serialized": {
-            "sphere": 0
-        }
+        "type": "sphere",
+        "serialized": {}
     },
     {
-        "entity": "/hierarchy/shape/ground",
-        "type": "shape_instance",
+        "entity": "/medium/cloud",
+        "type": "nanovdb_volume",
         "serialized": {
-            "path": "/shape/square"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/bound",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/sphere"
+            "path": "volume/disney-cloud.nvdb"
         }
     },
     {
         "entity": "/medium/cloud",
-        "type": "medium",
+        "type": "heterogeneous_medium",
         "serialized": {
-            "path": "volume/disney-cloud.nvdb",
-            "dimensions": [64, 64, 64],
             "phase": {
-                "g": 0.877,
-                "henyey_greenstein": 0
+                "function": "henyey_greenstein",
+                "g": 0.877
             },
-            "sigma_a": "/spectrum/sigma-a",
             "sigma_s": "/spectrum/sigma-s",
-            "sigma_e": "/spectrum/sigma-e",
-            "density_scale": 4,
-            "grid": 0
-        }
-    },
-    {
-        "entity": "/hierarchy/medium/cloud",
-        "type": "medium_instance",
-        "serialized": {
-            "path": "/medium/cloud"
+            "dimensions": [64, 64, 64],
+            "density": "/medium/cloud",
+            "density_scale": 4
         }
     },
     {
         "entity": "/texture/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/reflectance"
         }
     },
     {
         "entity": "/material/ground",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/reflectance"
         }
     },
     {
         "entity": "/material/cloud",
-        "type": "material",
-        "serialized": {
-            "bsdf": {
-                "interface": 0
-            },
-            "spectrum_textures": {},
-            "vector_textures": {}
-        }
+        "type": "interface_material",
+        "serialized": {}
     },
     {
         "entity": "/divider/ground",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/ground",
-            "material": "/material/ground"
+            "shape": "/shape/square",
+            "material": "/material/ground",
+            "local_to_render": "/hierarchy/shape/ground"
         }
     },
     {
         "entity": "/divider/cloud",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/bound",
-            "int_medium": "/hierarchy/medium/cloud",
-            "material": "/material/cloud"
+            "shape": "/shape/sphere",
+            "int_medium": "/medium/cloud",
+            "material": "/material/cloud",
+            "local_to_render": "/hierarchy/shape/bound",
+            "int_to_render": "/hierarchy/medium/cloud"
         }
     },
     {
         "entity": "/hierarchy/light/sky",
-        "type": "light",
+        "type": "sunsky_light",
         "serialized": {
             "direction": [0.6982009, 5.8468122],
-            "turbidity": 1.0,
-            "albedo": 0.2,
-            "aperture": 0.1919,
-            "temperature": 6504,
-            "intensity": 1,
-            "sunsky": 0
+            "aperture": 0.1919
         }
     },
     {
-        "entity": "/hierarchy/camera",
-        "type": "camera",
+        "entity": "/",
+        "type": "renderer",
         "serialized": {
-            "spp": 2048
+            "film": { "spp": 2048 }
         }
-    },
-    {
-        "entity": "/tracer",
-        "type": "tracer",
-        "serialized": {}
     }
 ]

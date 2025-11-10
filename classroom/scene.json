@@ -1,7 +1,7 @@
 [
     {
-        "entity": "/hierarchy/shape/0",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Walls",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -9,8 +9,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/1",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FluorescentTube",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -18,8 +18,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/2",
-        "type": "transform",
+        "entity": "/hierarchy/shape/CeilingLight",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -27,8 +27,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/3",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FluorescentTube0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -36,8 +36,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/4",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -45,8 +45,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/5",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -54,8 +54,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/6",
-        "type": "transform",
+        "entity": "/hierarchy/shape/BlackPlastic",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -63,8 +63,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/7",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -72,8 +72,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/8",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Projector",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -81,8 +81,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/9",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Projector0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -90,8 +90,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/10",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -99,8 +99,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/11",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Walls0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -108,8 +108,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/12",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Walls1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -117,8 +117,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/13",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Bin2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -126,8 +126,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/14",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Boxes1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, -0.07342231273651123, -0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -135,8 +135,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/15",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black3",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -144,8 +144,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/16",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black4",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -153,8 +153,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/17",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Whiteboard",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -162,8 +162,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/18",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Walls2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -171,8 +171,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/19",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black5",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -180,8 +180,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/20",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ProjectorScreen",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -189,8 +189,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/21",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ScreenEnds",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -198,8 +198,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/22",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FlagBase",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -207,8 +207,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/23",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FoamEraser",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -216,8 +216,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/24",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChalkHolder",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -225,8 +225,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/25",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -234,8 +234,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/26",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairStainless",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -243,8 +243,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/27",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairFrame",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -252,8 +252,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/28",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -261,8 +261,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/29",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -270,8 +270,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/30",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -279,8 +279,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/31",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood3",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -288,8 +288,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/32",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood4",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -297,8 +297,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/33",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Rubber",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -306,8 +306,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/34",
-        "type": "transform",
+        "entity": "/hierarchy/shape/ChairWood5",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -315,8 +315,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/35",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Floor",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [11.651670455932617, 11.651670455932617, 11.651670455932617],
@@ -324,8 +324,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/36",
-        "type": "transform",
+        "entity": "/hierarchy/shape/WoodFrame",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -333,8 +333,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/37",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Whiteboard2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -342,8 +342,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/38",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -351,8 +351,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/39",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -360,8 +360,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/40",
-        "type": "transform",
+        "entity": "/hierarchy/shape/RedPencil",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -369,8 +369,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/41",
-        "type": "transform",
+        "entity": "/hierarchy/shape/BluePencil",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -378,8 +378,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/42",
-        "type": "transform",
+        "entity": "/hierarchy/shape/GreenPencil",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -387,8 +387,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/43",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Whiteboard3",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -396,8 +396,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/44",
-        "type": "transform",
+        "entity": "/hierarchy/shape/WhiteboardFrame",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -405,8 +405,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/45",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Lectern",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -414,8 +414,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/46",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Lectern0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -423,8 +423,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/47",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Lectern1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -432,8 +432,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/48",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Lectern2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -441,8 +441,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/49",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Lectern3",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -450,8 +450,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/50",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Hallway",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -459,8 +459,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/51",
-        "type": "transform",
+        "entity": "/hierarchy/shape/WoodFrame0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -468,8 +468,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/52",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Whiteboard20",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -477,8 +477,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/53",
-        "type": "transform",
+        "entity": "/hierarchy/shape/BluePencil0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -486,8 +486,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/54",
-        "type": "transform",
+        "entity": "/hierarchy/shape/GreenPencil0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -495,8 +495,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/55",
-        "type": "transform",
+        "entity": "/hierarchy/shape/GreenPencil1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -504,8 +504,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/56",
-        "type": "transform",
+        "entity": "/hierarchy/shape/GreenPencil2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -513,8 +513,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/57",
-        "type": "transform",
+        "entity": "/hierarchy/shape/BluePencil1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -522,8 +522,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/58",
-        "type": "transform",
+        "entity": "/hierarchy/shape/RedPencil0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -531,8 +531,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/59",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Bookshelf",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -540,8 +540,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/60",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote3",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -549,8 +549,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/61",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote4",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -558,8 +558,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/62",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote5",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -567,8 +567,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/63",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote6",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -576,8 +576,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/64",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote7",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -585,8 +585,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/65",
-        "type": "transform",
+        "entity": "/hierarchy/shape/StickyNote8",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -594,8 +594,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/66",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Black6",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -603,8 +603,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/67",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FlagRed",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -612,8 +612,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/68",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FlagWhite",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -621,8 +621,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/69",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Walls3",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -630,8 +630,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/70",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Speakers",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -639,8 +639,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/71",
-        "type": "transform",
+        "entity": "/hierarchy/shape/FluorescentTube1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -648,8 +648,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/72",
-        "type": "transform",
+        "entity": "/hierarchy/shape/CeilingLight0",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -657,8 +657,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/73",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Wall",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -666,8 +666,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/74",
-        "type": "transform",
+        "entity": "/hierarchy/shape/WindowFrame",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -675,8 +675,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/75",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Bin1",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -684,8 +684,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/76",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Boxes10",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, -0.07342231273651123, -0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -693,8 +693,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/77",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Boxes2",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, -0.07342231273651123, -0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -702,8 +702,8 @@
         }
     },
     {
-        "entity": "/hierarchy/shape/78",
-        "type": "transform",
+        "entity": "/hierarchy/shape/Boxes11",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, -0.07342231273651123, -0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -712,7 +712,7 @@
     },
     {
         "entity": "/hierarchy/light/sky",
-        "type": "transform",
+        "type": "local_transform",
         "serialized": {
             "translation": [0.0, 0.0, 0.0],
             "scaling": [1.0, 1.0, 1.0],
@@ -721,7 +721,7 @@
     },
     {
         "entity": "/hierarchy/camera",
-        "type": "transform",
+        "type": "look_at_transform",
         "serialized": {
             "position": [-1.690487027168274, 1.2715795040130615, -5.886528015136719],
             "look_at": [-0.7776312828063965, 1.4423744678497314, 0.07520569860935211],
@@ -730,3298 +730,2320 @@
     },
     {
         "entity": "/spectrum/Walls/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.6540709733963013, 0.6740800142288208, 0.800000011920929],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/FlagRed/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.800000011920929, 0.008213999681174755, 0.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/FlagWhite/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [1.0, 1.0, 1.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/FlagBase/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.7796609997749329, 0.6531620025634766, 0.3491879999637604],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/ChalkHolder/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.800000011920929, 0.6449009776115417, 0.4121190011501312],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/ProjectorScreen/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [1.0, 1.0, 1.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote1/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Whiteboard/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [1.0, 1.0, 1.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote7/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote8/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Bin2/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.800000011920929, 0.7175089716911316, 0.19045600295066833],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Boxes2/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.800000011920929, 0.7916420102119446, 0.38839900493621826],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Boxes1/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.6399999856948853, 0.47218799591064453, 0.3192330002784729],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote4/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Whiteboard2/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.79311, 0.79311, 0.79311],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/BluePencil/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.0, 0.030764000490307808, 0.800000011920929],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/GreenPencil/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.14567600190639496, 0.6399999856948853, 0.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/RedPencil/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.6266509890556335, 0.0, 0.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Bookshelf/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.4913010001182556, 0.3051770031452179, 0.800000011920929],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Hallway/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.784314, 0.784314, 0.784314],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/CeilingLight/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.647814, 0.647814, 0.647814],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/CeilingLight/eta",
-        "type": "spectrum",
+        "type": "constant_spectrum",
         "serialized": {
-            "x": 1.5,
-            "constant": 0
+            "x": 1.5
         }
     },
     {
         "entity": "/spectrum/Black/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.00631, 0.00631, 0.00631],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/BlackPlastic/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.00631, 0.00631, 0.00631],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/BlackPlastic/eta",
-        "type": "spectrum",
+        "type": "constant_spectrum",
         "serialized": {
-            "x": 1.5,
-            "constant": 0
+            "x": 1.5
         }
     },
     {
         "entity": "/spectrum/Projector/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.00631, 0.00631, 0.00631],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/ScreenEnds/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.028991, 0.028991, 0.028991],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/FoamEraser/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.684615, 0.684615, 0.684615],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Whiteboard3/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [1.0, 1.0, 1.0],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Whiteboard3/eta",
-        "type": "spectrum",
+        "type": "constant_spectrum",
         "serialized": {
-            "x": 1.5,
-            "constant": 0
+            "x": 1.5
         }
     },
     {
         "entity": "/spectrum/ChairWood/eta",
-        "type": "spectrum",
+        "type": "constant_spectrum",
         "serialized": {
-            "x": 1.5,
-            "constant": 0
+            "x": 1.5
         }
     },
     {
         "entity": "/spectrum/Floor/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.6592240333557129, 0.5924380421638489, 0.517401397228241],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/WhiteboardFrame/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.056173, 0.056173, 0.056173],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote3/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote5/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/StickyNote6/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Speakers/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.03598, 0.03598, 0.03598],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Wall/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.4508373439311981, 0.4536627233028412, 0.49960458278656006],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Bin1/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.32712534070014954, 0.5785964727401733, 0.2805613875389099],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/Rubber/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.6870308518409729, 0.7154654264450073, 0.5604991912841797],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/FluorescentTube/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
         "entity": "/spectrum/FluorescentTube/eta",
-        "type": "spectrum",
+        "type": "constant_spectrum",
         "serialized": {
-            "x": 1.5,
-            "constant": 0
+            "x": 1.5
         }
     },
     {
         "entity": "/spectrum/StickyNote2/reflectance",
-        "type": "spectrum",
+        "type": "rgb_spectrum",
         "serialized": {
             "c": [0.612066, 0.612066, 0.612066],
-            "type": "albedo",
-            "color_space": "/color-space/sRGB",
-            "rgb": 0
+            "type": "albedo"
         }
     },
     {
-        "entity": "/shape/0",
-        "type": "shape",
+        "entity": "/shape/Walls",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh036.obj",
-            "mesh": 0
+            "path": "model/Mesh036.obj"
         }
     },
     {
-        "entity": "/shape/1",
-        "type": "shape",
+        "entity": "/shape/FluorescentTube",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh048.obj",
-            "mesh": 0
+            "path": "model/Mesh048.obj"
         }
     },
     {
-        "entity": "/shape/2",
-        "type": "shape",
+        "entity": "/shape/CeilingLight",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh062.obj",
-            "mesh": 0
+            "path": "model/Mesh062.obj"
         }
     },
     {
-        "entity": "/shape/3",
-        "type": "shape",
+        "entity": "/shape/FluorescentTube0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh038.obj",
-            "mesh": 0
+            "path": "model/Mesh038.obj"
         }
     },
     {
-        "entity": "/shape/4",
-        "type": "shape",
+        "entity": "/shape/Black",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh054.obj",
-            "mesh": 0
+            "path": "model/Mesh054.obj"
         }
     },
     {
-        "entity": "/shape/5",
-        "type": "shape",
+        "entity": "/shape/Black0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh077.obj",
-            "mesh": 0
+            "path": "model/Mesh077.obj"
         }
     },
     {
-        "entity": "/shape/6",
-        "type": "shape",
+        "entity": "/shape/BlackPlastic",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh052.obj",
-            "mesh": 0
+            "path": "model/Mesh052.obj"
         }
     },
     {
-        "entity": "/shape/7",
-        "type": "shape",
+        "entity": "/shape/Black1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh061.obj",
-            "mesh": 0
+            "path": "model/Mesh061.obj"
         }
     },
     {
-        "entity": "/shape/8",
-        "type": "shape",
+        "entity": "/shape/Projector",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh031.obj",
-            "mesh": 0
+            "path": "model/Mesh031.obj"
         }
     },
     {
-        "entity": "/shape/9",
-        "type": "shape",
+        "entity": "/shape/Projector0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh030.obj",
-            "mesh": 0
+            "path": "model/Mesh030.obj"
         }
     },
     {
-        "entity": "/shape/10",
-        "type": "shape",
+        "entity": "/shape/Black2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh057.obj",
-            "mesh": 0
+            "path": "model/Mesh057.obj"
         }
     },
     {
-        "entity": "/shape/11",
-        "type": "shape",
+        "entity": "/shape/Walls0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh023.obj",
-            "mesh": 0
+            "path": "model/Mesh023.obj"
         }
     },
     {
-        "entity": "/shape/12",
-        "type": "shape",
+        "entity": "/shape/Walls1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh027.obj",
-            "mesh": 0
+            "path": "model/Mesh027.obj"
         }
     },
     {
-        "entity": "/shape/13",
-        "type": "shape",
+        "entity": "/shape/Bin2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh047.obj",
-            "mesh": 0
+            "path": "model/Mesh047.obj"
         }
     },
     {
-        "entity": "/shape/14",
-        "type": "shape",
+        "entity": "/shape/Boxes1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh049.obj",
-            "mesh": 0
+            "path": "model/Mesh049.obj"
         }
     },
     {
-        "entity": "/shape/15",
-        "type": "shape",
+        "entity": "/shape/Black3",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh022.obj",
-            "mesh": 0
+            "path": "model/Mesh022.obj"
         }
     },
     {
-        "entity": "/shape/16",
-        "type": "shape",
+        "entity": "/shape/Black4",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh029.obj",
-            "mesh": 0
+            "path": "model/Mesh029.obj"
         }
     },
     {
-        "entity": "/shape/17",
-        "type": "shape",
+        "entity": "/shape/Whiteboard",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh033.obj",
-            "mesh": 0
+            "path": "model/Mesh033.obj"
         }
     },
     {
-        "entity": "/shape/18",
-        "type": "shape",
+        "entity": "/shape/Walls2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh040.obj",
-            "mesh": 0
+            "path": "model/Mesh040.obj"
         }
     },
     {
-        "entity": "/shape/19",
-        "type": "shape",
+        "entity": "/shape/Black5",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh028.obj",
-            "mesh": 0
+            "path": "model/Mesh028.obj"
         }
     },
     {
-        "entity": "/shape/20",
-        "type": "shape",
+        "entity": "/shape/ProjectorScreen",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh076.obj",
-            "mesh": 0
+            "path": "model/Mesh076.obj"
         }
     },
     {
-        "entity": "/shape/21",
-        "type": "shape",
+        "entity": "/shape/ScreenEnds",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh050.obj",
-            "mesh": 0
+            "path": "model/Mesh050.obj"
         }
     },
     {
-        "entity": "/shape/22",
-        "type": "shape",
+        "entity": "/shape/FlagBase",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh055.obj",
-            "mesh": 0
+            "path": "model/Mesh055.obj"
         }
     },
     {
-        "entity": "/shape/23",
-        "type": "shape",
+        "entity": "/shape/FoamEraser",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh053.obj",
-            "mesh": 0
+            "path": "model/Mesh053.obj"
         }
     },
     {
-        "entity": "/shape/24",
-        "type": "shape",
+        "entity": "/shape/ChalkHolder",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh058.obj",
-            "mesh": 0
+            "path": "model/Mesh058.obj"
         }
     },
     {
-        "entity": "/shape/25",
-        "type": "shape",
+        "entity": "/shape/ChairWood",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh060.obj",
-            "mesh": 0
+            "path": "model/Mesh060.obj"
         }
     },
     {
-        "entity": "/shape/26",
-        "type": "shape",
+        "entity": "/shape/ChairStainless",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh063.obj",
-            "mesh": 0
+            "path": "model/Mesh063.obj"
         }
     },
     {
-        "entity": "/shape/27",
-        "type": "shape",
+        "entity": "/shape/ChairFrame",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh064.obj",
-            "mesh": 0
+            "path": "model/Mesh064.obj"
         }
     },
     {
-        "entity": "/shape/28",
-        "type": "shape",
+        "entity": "/shape/ChairWood0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh037.obj",
-            "mesh": 0
+            "path": "model/Mesh037.obj"
         }
     },
     {
-        "entity": "/shape/29",
-        "type": "shape",
+        "entity": "/shape/ChairWood1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh067.obj",
-            "mesh": 0
+            "path": "model/Mesh067.obj"
         }
     },
     {
-        "entity": "/shape/30",
-        "type": "shape",
+        "entity": "/shape/ChairWood2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh073.obj",
-            "mesh": 0
+            "path": "model/Mesh073.obj"
         }
     },
     {
-        "entity": "/shape/31",
-        "type": "shape",
+        "entity": "/shape/ChairWood3",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh024.obj",
-            "mesh": 0
+            "path": "model/Mesh024.obj"
         }
     },
     {
-        "entity": "/shape/32",
-        "type": "shape",
+        "entity": "/shape/ChairWood4",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh041.obj",
-            "mesh": 0
+            "path": "model/Mesh041.obj"
         }
     },
     {
-        "entity": "/shape/33",
-        "type": "shape",
+        "entity": "/shape/Rubber",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh026.obj",
-            "mesh": 0
+            "path": "model/Mesh026.obj"
         }
     },
     {
-        "entity": "/shape/34",
-        "type": "shape",
+        "entity": "/shape/ChairWood5",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh069.obj",
-            "mesh": 0
+            "path": "model/Mesh069.obj"
         }
     },
     {
-        "entity": "/shape/35",
-        "type": "shape",
+        "entity": "/shape/Floor",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh035.obj",
-            "mesh": 0
+            "path": "model/Mesh035.obj"
         }
     },
     {
-        "entity": "/shape/36",
-        "type": "shape",
+        "entity": "/shape/WoodFrame",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh043.obj",
-            "mesh": 0
+            "path": "model/Mesh043.obj"
         }
     },
     {
-        "entity": "/shape/37",
-        "type": "shape",
+        "entity": "/shape/Whiteboard2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh072.obj",
-            "mesh": 0
+            "path": "model/Mesh072.obj"
         }
     },
     {
-        "entity": "/shape/38",
-        "type": "shape",
+        "entity": "/shape/StickyNote1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh045.obj",
-            "mesh": 0
+            "path": "model/Mesh045.obj"
         }
     },
     {
-        "entity": "/shape/39",
-        "type": "shape",
+        "entity": "/shape/StickyNote2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh044.obj",
-            "mesh": 0
+            "path": "model/Mesh044.obj"
         }
     },
     {
-        "entity": "/shape/40",
-        "type": "shape",
+        "entity": "/shape/RedPencil",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh074.obj",
-            "mesh": 0
+            "path": "model/Mesh074.obj"
         }
     },
     {
-        "entity": "/shape/41",
-        "type": "shape",
+        "entity": "/shape/BluePencil",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh070.obj",
-            "mesh": 0
+            "path": "model/Mesh070.obj"
         }
     },
     {
-        "entity": "/shape/42",
-        "type": "shape",
+        "entity": "/shape/GreenPencil",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh078.obj",
-            "mesh": 0
+            "path": "model/Mesh078.obj"
         }
     },
     {
-        "entity": "/shape/43",
-        "type": "shape",
+        "entity": "/shape/Whiteboard3",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh021.obj",
-            "mesh": 0
+            "path": "model/Mesh021.obj"
         }
     },
     {
-        "entity": "/shape/44",
-        "type": "shape",
+        "entity": "/shape/WhiteboardFrame",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh018.obj",
-            "mesh": 0
+            "path": "model/Mesh018.obj"
         }
     },
     {
-        "entity": "/shape/45",
-        "type": "shape",
+        "entity": "/shape/Lectern",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh017.obj",
-            "mesh": 0
+            "path": "model/Mesh017.obj"
         }
     },
     {
-        "entity": "/shape/46",
-        "type": "shape",
+        "entity": "/shape/Lectern0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh066.obj",
-            "mesh": 0
+            "path": "model/Mesh066.obj"
         }
     },
     {
-        "entity": "/shape/47",
-        "type": "shape",
+        "entity": "/shape/Lectern1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh056.obj",
-            "mesh": 0
+            "path": "model/Mesh056.obj"
         }
     },
     {
-        "entity": "/shape/48",
-        "type": "shape",
+        "entity": "/shape/Lectern2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh016.obj",
-            "mesh": 0
+            "path": "model/Mesh016.obj"
         }
     },
     {
-        "entity": "/shape/49",
-        "type": "shape",
+        "entity": "/shape/Lectern3",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh015.obj",
-            "mesh": 0
+            "path": "model/Mesh015.obj"
         }
     },
     {
-        "entity": "/shape/50",
-        "type": "shape",
+        "entity": "/shape/Hallway",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh014.obj",
-            "mesh": 0
+            "path": "model/Mesh014.obj"
         }
     },
     {
-        "entity": "/shape/51",
-        "type": "shape",
+        "entity": "/shape/WoodFrame0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh025.obj",
-            "mesh": 0
+            "path": "model/Mesh025.obj"
         }
     },
     {
-        "entity": "/shape/52",
-        "type": "shape",
+        "entity": "/shape/Whiteboard20",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh046.obj",
-            "mesh": 0
+            "path": "model/Mesh046.obj"
         }
     },
     {
-        "entity": "/shape/53",
-        "type": "shape",
+        "entity": "/shape/BluePencil0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh012.obj",
-            "mesh": 0
+            "path": "model/Mesh012.obj"
         }
     },
     {
-        "entity": "/shape/54",
-        "type": "shape",
+        "entity": "/shape/GreenPencil0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh011.obj",
-            "mesh": 0
+            "path": "model/Mesh011.obj"
         }
     },
     {
-        "entity": "/shape/55",
-        "type": "shape",
+        "entity": "/shape/GreenPencil1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh010.obj",
-            "mesh": 0
+            "path": "model/Mesh010.obj"
         }
     },
     {
-        "entity": "/shape/56",
-        "type": "shape",
+        "entity": "/shape/GreenPencil2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh009.obj",
-            "mesh": 0
+            "path": "model/Mesh009.obj"
         }
     },
     {
-        "entity": "/shape/57",
-        "type": "shape",
+        "entity": "/shape/BluePencil1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh008.obj",
-            "mesh": 0
+            "path": "model/Mesh008.obj"
         }
     },
     {
-        "entity": "/shape/58",
-        "type": "shape",
+        "entity": "/shape/RedPencil0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh059.obj",
-            "mesh": 0
+            "path": "model/Mesh059.obj"
         }
     },
     {
-        "entity": "/shape/59",
-        "type": "shape",
+        "entity": "/shape/Bookshelf",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh065.obj",
-            "mesh": 0
+            "path": "model/Mesh065.obj"
         }
     },
     {
-        "entity": "/shape/60",
-        "type": "shape",
+        "entity": "/shape/StickyNote3",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh032.obj",
-            "mesh": 0
+            "path": "model/Mesh032.obj"
         }
     },
     {
-        "entity": "/shape/61",
-        "type": "shape",
+        "entity": "/shape/StickyNote4",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh007.obj",
-            "mesh": 0
+            "path": "model/Mesh007.obj"
         }
     },
     {
-        "entity": "/shape/62",
-        "type": "shape",
+        "entity": "/shape/StickyNote5",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh075.obj",
-            "mesh": 0
+            "path": "model/Mesh075.obj"
         }
     },
     {
-        "entity": "/shape/63",
-        "type": "shape",
+        "entity": "/shape/StickyNote6",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh071.obj",
-            "mesh": 0
+            "path": "model/Mesh071.obj"
         }
     },
     {
-        "entity": "/shape/64",
-        "type": "shape",
+        "entity": "/shape/StickyNote7",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh039.obj",
-            "mesh": 0
+            "path": "model/Mesh039.obj"
         }
     },
     {
-        "entity": "/shape/65",
-        "type": "shape",
+        "entity": "/shape/StickyNote8",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh006.obj",
-            "mesh": 0
+            "path": "model/Mesh006.obj"
         }
     },
     {
-        "entity": "/shape/66",
-        "type": "shape",
+        "entity": "/shape/Black6",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh051.obj",
-            "mesh": 0
+            "path": "model/Mesh051.obj"
         }
     },
     {
-        "entity": "/shape/67",
-        "type": "shape",
+        "entity": "/shape/FlagRed",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh013.obj",
-            "mesh": 0
+            "path": "model/Mesh013.obj"
         }
     },
     {
-        "entity": "/shape/68",
-        "type": "shape",
+        "entity": "/shape/FlagWhite",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh005.obj",
-            "mesh": 0
+            "path": "model/Mesh005.obj"
         }
     },
     {
-        "entity": "/shape/69",
-        "type": "shape",
+        "entity": "/shape/Walls3",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh042.obj",
-            "mesh": 0
+            "path": "model/Mesh042.obj"
         }
     },
     {
-        "entity": "/shape/70",
-        "type": "shape",
+        "entity": "/shape/Speakers",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh003.obj",
-            "mesh": 0
+            "path": "model/Mesh003.obj"
         }
     },
     {
-        "entity": "/shape/71",
-        "type": "shape",
+        "entity": "/shape/FluorescentTube1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh020.obj",
-            "mesh": 0
+            "path": "model/Mesh020.obj"
         }
     },
     {
-        "entity": "/shape/72",
-        "type": "shape",
+        "entity": "/shape/CeilingLight0",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh002.obj",
-            "mesh": 0
+            "path": "model/Mesh002.obj"
         }
     },
     {
-        "entity": "/shape/73",
-        "type": "shape",
+        "entity": "/shape/Wall",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh019.obj",
-            "mesh": 0
+            "path": "model/Mesh019.obj"
         }
     },
     {
-        "entity": "/shape/74",
-        "type": "shape",
+        "entity": "/shape/WindowFrame",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh068.obj",
-            "mesh": 0
+            "path": "model/Mesh068.obj"
         }
     },
     {
-        "entity": "/shape/75",
-        "type": "shape",
+        "entity": "/shape/Bin1",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh001.obj",
-            "mesh": 0
+            "path": "model/Mesh001.obj"
         }
     },
     {
-        "entity": "/shape/76",
-        "type": "shape",
+        "entity": "/shape/Boxes10",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh004.obj",
-            "mesh": 0
+            "path": "model/Mesh004.obj"
         }
     },
     {
-        "entity": "/shape/77",
-        "type": "shape",
+        "entity": "/shape/Boxes2",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh034.obj",
-            "mesh": 0
+            "path": "model/Mesh034.obj"
         }
     },
     {
-        "entity": "/shape/78",
-        "type": "shape",
+        "entity": "/shape/Boxes11",
+        "type": "mesh",
         "serialized": {
-            "path": "model/Mesh000.obj",
-            "mesh": 0
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/0",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/0"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/1",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/1"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/2",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/2"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/3",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/3"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/4",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/4"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/5",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/5"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/6",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/6"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/7",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/7"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/8",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/8"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/9",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/9"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/10",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/10"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/11",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/11"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/12",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/12"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/13",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/13"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/14",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/14"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/15",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/15"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/16",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/16"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/17",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/17"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/18",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/18"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/19",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/19"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/20",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/20"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/21",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/21"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/22",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/22"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/23",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/23"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/24",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/24"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/25",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/25"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/26",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/26"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/27",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/27"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/28",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/28"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/29",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/29"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/30",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/30"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/31",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/31"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/32",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/32"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/33",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/33"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/34",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/34"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/35",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/35"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/36",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/36"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/37",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/37"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/38",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/38"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/39",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/39"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/40",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/40"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/41",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/41"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/42",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/42"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/43",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/43"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/44",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/44"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/45",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/45"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/46",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/46"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/47",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/47"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/48",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/48"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/49",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/49"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/50",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/50"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/51",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/51"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/52",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/52"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/53",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/53"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/54",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/54"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/55",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/55"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/56",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/56"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/57",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/57"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/58",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/58"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/59",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/59"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/60",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/60"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/61",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/61"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/62",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/62"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/63",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/63"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/64",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/64"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/65",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/65"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/66",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/66"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/67",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/67"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/68",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/68"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/69",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/69"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/70",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/70"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/71",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/71"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/72",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/72"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/73",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/73"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/74",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/74"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/75",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/75"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/76",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/76"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/77",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/77"
-        }
-    },
-    {
-        "entity": "/hierarchy/shape/78",
-        "type": "shape_instance",
-        "serialized": {
-            "path": "/shape/78"
+            "path": "model/Mesh000.obj"
         }
     },
     {
         "entity": "/texture/Walls/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Walls/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Walls/reflectance"
         }
     },
     {
         "entity": "/texture/Lectern/reflectance",
-        "type": "texture",
+        "type": "image_spectrum_texture",
         "serialized": {
             "path": "texture/wood1.jpg",
             "type": "albedo",
-            "image_spectrum": 0
+            "distr": "none"
         }
     },
     {
         "entity": "/texture/FlagRed/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/FlagRed/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/FlagRed/reflectance"
         }
     },
     {
         "entity": "/texture/FlagWhite/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/FlagWhite/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/FlagWhite/reflectance"
         }
     },
     {
         "entity": "/texture/FlagBase/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/FlagBase/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/FlagBase/reflectance"
         }
     },
     {
         "entity": "/texture/ChalkHolder/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/ChalkHolder/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/ChalkHolder/reflectance"
         }
     },
     {
         "entity": "/texture/ProjectorScreen/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/ProjectorScreen/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/ProjectorScreen/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote1/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote1/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote1/reflectance"
         }
     },
     {
         "entity": "/texture/Whiteboard/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Whiteboard/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Whiteboard/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote7/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote7/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote7/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote8/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote8/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote8/reflectance"
         }
     },
     {
         "entity": "/texture/Bin2/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Bin2/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Bin2/reflectance"
         }
     },
     {
         "entity": "/texture/Boxes2/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Boxes2/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Boxes2/reflectance"
         }
     },
     {
         "entity": "/texture/Boxes1/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Boxes1/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Boxes1/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote4/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote4/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote4/reflectance"
         }
     },
     {
         "entity": "/texture/Whiteboard2/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Whiteboard2/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Whiteboard2/reflectance"
         }
     },
     {
         "entity": "/texture/BluePencil/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/BluePencil/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/BluePencil/reflectance"
         }
     },
     {
         "entity": "/texture/GreenPencil/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/GreenPencil/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/GreenPencil/reflectance"
         }
     },
     {
         "entity": "/texture/RedPencil/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/RedPencil/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/RedPencil/reflectance"
         }
     },
     {
         "entity": "/texture/Bookshelf/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Bookshelf/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Bookshelf/reflectance"
         }
     },
     {
         "entity": "/texture/Hallway/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Hallway/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Hallway/reflectance"
         }
     },
     {
         "entity": "/texture/CeilingLight/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/CeilingLight/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/CeilingLight/reflectance"
         }
     },
     {
         "entity": "/texture/CeilingLight/eta",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/CeilingLight/eta",
-            "constant_spectrum": 0
+            "x": "/spectrum/CeilingLight/eta"
         }
     },
     {
         "entity": "/texture/CeilingLight/alpha",
-        "type": "texture",
+        "type": "constant_vector_texture",
         "serialized": {
-            "x": [0.1, 0.1, 0.1, 0.1],
-            "constant_vector": 0
+            "x": [0.1, 0.1, 0.1, 0.1]
         }
     },
     {
         "entity": "/texture/Black/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Black/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Black/reflectance"
         }
     },
     {
         "entity": "/texture/BlackPlastic/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/BlackPlastic/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/BlackPlastic/reflectance"
         }
     },
     {
         "entity": "/texture/BlackPlastic/eta",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/BlackPlastic/eta",
-            "constant_spectrum": 0
+            "x": "/spectrum/BlackPlastic/eta"
         }
     },
     {
         "entity": "/texture/BlackPlastic/alpha",
-        "type": "texture",
+        "type": "constant_vector_texture",
         "serialized": {
-            "x": [0.1, 0.1, 0.1, 0.1],
-            "constant_vector": 0
+            "x": [0.1, 0.1, 0.1, 0.1]
         }
     },
     {
         "entity": "/texture/Projector/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Projector/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Projector/reflectance"
         }
     },
     {
         "entity": "/texture/ScreenEnds/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/ScreenEnds/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/ScreenEnds/reflectance"
         }
     },
     {
         "entity": "/texture/FoamEraser/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/FoamEraser/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/FoamEraser/reflectance"
         }
     },
     {
         "entity": "/texture/Whiteboard3/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Whiteboard3/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Whiteboard3/reflectance"
         }
     },
     {
         "entity": "/texture/Whiteboard3/eta",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Whiteboard3/eta",
-            "constant_spectrum": 0
+            "x": "/spectrum/Whiteboard3/eta"
         }
     },
     {
         "entity": "/texture/Whiteboard3/alpha",
-        "type": "texture",
+        "type": "constant_vector_texture",
         "serialized": {
-            "x": [0.05, 0.05, 0.05, 0.05],
-            "constant_vector": 0
+            "x": [0.05, 0.05, 0.05, 0.05]
         }
     },
     {
         "entity": "/texture/ChairWood/reflectance",
-        "type": "texture",
+        "type": "image_spectrum_texture",
         "serialized": {
             "path": "texture/wood2.jpg",
             "type": "albedo",
-            "image_spectrum": 0
+            "distr": "none"
         }
     },
     {
         "entity": "/texture/ChairWood/eta",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/ChairWood/eta",
-            "constant_spectrum": 0
+            "x": "/spectrum/ChairWood/eta"
         }
     },
     {
         "entity": "/texture/ChairWood/alpha",
-        "type": "texture",
+        "type": "constant_vector_texture",
         "serialized": {
-            "x": [0.05, 0.05, 0.05, 0.05],
-            "constant_vector": 0
+            "x": [0.05, 0.05, 0.05, 0.05]
         }
     },
     {
         "entity": "/texture/ChairFrame/alpha",
-        "type": "texture",
+        "type": "constant_vector_texture",
         "serialized": {
-            "x": [0.1, 0.1, 0.1, 0.1],
-            "constant_vector": 0
-        }
-    },
-    {
-        "entity": "/texture/ChairStainless/alpha",
-        "type": "texture",
-        "serialized": {
-            "x": [0.001, 0.001, 0.001, 0.001],
-            "constant_vector": 0
+            "x": [0.1, 0.1, 0.1, 0.1]
         }
     },
     {
         "entity": "/texture/Floor/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Floor/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Floor/reflectance"
         }
     },
     {
         "entity": "/texture/WoodFrame/reflectance",
-        "type": "texture",
+        "type": "image_spectrum_texture",
         "serialized": {
             "path": "texture/blackboard.jpg",
             "type": "albedo",
-            "image_spectrum": 0
+            "distr": "none"
         }
     },
     {
         "entity": "/texture/WhiteboardFrame/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/WhiteboardFrame/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/WhiteboardFrame/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote3/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote3/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote3/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote5/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote5/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote5/reflectance"
         }
     },
     {
         "entity": "/texture/StickyNote6/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote6/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote6/reflectance"
         }
     },
     {
         "entity": "/texture/Speakers/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Speakers/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Speakers/reflectance"
         }
     },
     {
         "entity": "/texture/Wall/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Wall/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Wall/reflectance"
         }
     },
     {
         "entity": "/texture/WindowFrame/alpha",
-        "type": "texture",
+        "type": "constant_vector_texture",
         "serialized": {
-            "x": [0.1, 0.1, 0.1, 0.1],
-            "constant_vector": 0
+            "x": [0.1, 0.1, 0.1, 0.1]
         }
     },
     {
         "entity": "/texture/Bin1/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Bin1/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Bin1/reflectance"
         }
     },
     {
         "entity": "/texture/Rubber/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/Rubber/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/Rubber/reflectance"
         }
     },
     {
         "entity": "/texture/FluorescentTube/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/FluorescentTube/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/FluorescentTube/reflectance"
         }
     },
     {
         "entity": "/texture/FluorescentTube/eta",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/FluorescentTube/eta",
-            "constant_spectrum": 0
-        }
-    },
-    {
-        "entity": "/texture/FluorescentTube/alpha",
-        "type": "texture",
-        "serialized": {
-            "x": [0.001, 0.001, 0.001, 0.001],
-            "constant_vector": 0
+            "x": "/spectrum/FluorescentTube/eta"
         }
     },
     {
         "entity": "/texture/StickyNote2/reflectance",
-        "type": "texture",
+        "type": "constant_spectrum_texture",
         "serialized": {
-            "spectrum": "/spectrum/StickyNote2/reflectance",
-            "constant_spectrum": 0
+            "x": "/spectrum/StickyNote2/reflectance"
         }
     },
     {
         "entity": "/material/Walls",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Walls/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Walls/reflectance"
         }
     },
     {
         "entity": "/material/Lectern",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Lectern/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Lectern/reflectance"
         }
     },
     {
         "entity": "/material/FlagRed",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/FlagRed/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/FlagRed/reflectance"
         }
     },
     {
         "entity": "/material/FlagWhite",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/FlagWhite/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/FlagWhite/reflectance"
         }
     },
     {
         "entity": "/material/FlagBase",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/FlagBase/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/FlagBase/reflectance"
         }
     },
     {
         "entity": "/material/ChalkHolder",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/ChalkHolder/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/ChalkHolder/reflectance"
         }
     },
     {
         "entity": "/material/ProjectorScreen",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/ProjectorScreen/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/ProjectorScreen/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote1",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote1/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote1/reflectance"
         }
     },
     {
         "entity": "/material/Whiteboard",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Whiteboard/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Whiteboard/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote7",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote7/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote7/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote8",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote8/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote8/reflectance"
         }
     },
     {
         "entity": "/material/Bin2",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Bin2/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Bin2/reflectance"
         }
     },
     {
         "entity": "/material/Boxes2",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Boxes2/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Boxes2/reflectance"
         }
     },
     {
         "entity": "/material/Boxes1",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Boxes1/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Boxes1/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote4",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote4/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote4/reflectance"
         }
     },
     {
         "entity": "/material/Whiteboard2",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Whiteboard2/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Whiteboard2/reflectance"
         }
     },
     {
         "entity": "/material/BluePencil",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/BluePencil/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/BluePencil/reflectance"
         }
     },
     {
         "entity": "/material/GreenPencil",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/GreenPencil/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/GreenPencil/reflectance"
         }
     },
     {
         "entity": "/material/RedPencil",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/RedPencil/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/RedPencil/reflectance"
         }
     },
     {
         "entity": "/material/Bookshelf",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Bookshelf/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Bookshelf/reflectance"
         }
     },
     {
         "entity": "/material/Hallway",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Hallway/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Hallway/reflectance"
         }
     },
     {
         "entity": "/material/CeilingLight",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/CeilingLight/reflectance",
-                "eta": "/texture/CeilingLight/eta"
-            },
-            "vector_textures": {
-                "alpha": "/texture/CeilingLight/alpha"
-            }
+            "reflectance": "/texture/CeilingLight/reflectance",
+            "eta": "/texture/CeilingLight/eta",
+            "alpha": "/texture/CeilingLight/alpha"
         }
     },
     {
         "entity": "/material/Black",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Black/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Black/reflectance"
         }
     },
     {
         "entity": "/material/BlackPlastic",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/BlackPlastic/reflectance",
-                "eta": "/texture/BlackPlastic/eta"
-            },
-            "vector_textures": {
-                "alpha": "/texture/BlackPlastic/alpha"
-            }
+            "reflectance": "/texture/BlackPlastic/reflectance",
+            "eta": "/texture/BlackPlastic/eta",
+            "alpha": "/texture/BlackPlastic/alpha"
         }
     },
     {
         "entity": "/material/Projector",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Projector/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Projector/reflectance"
         }
     },
     {
         "entity": "/material/ScreenEnds",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/ScreenEnds/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/ScreenEnds/reflectance"
         }
     },
     {
         "entity": "/material/FoamEraser",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/FoamEraser/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/FoamEraser/reflectance"
         }
     },
     {
         "entity": "/material/Whiteboard3",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Whiteboard3/reflectance",
-                "eta": "/texture/Whiteboard3/eta"
-            },
-            "vector_textures": {
-                "alpha": "/texture/Whiteboard3/alpha"
-            }
+            "reflectance": "/texture/Whiteboard3/reflectance",
+            "eta": "/texture/Whiteboard3/eta",
+            "alpha": "/texture/Whiteboard3/alpha"
         }
     },
     {
         "entity": "/material/ChairWood",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/ChairWood/reflectance",
-                "eta": "/texture/ChairWood/eta"
-            },
-            "vector_textures": {
-                "alpha": "/texture/ChairWood/alpha"
-            }
+            "reflectance": "/texture/ChairWood/reflectance",
+            "eta": "/texture/ChairWood/eta",
+            "alpha": "/texture/ChairWood/alpha"
         }
     },
     {
         "entity": "/material/ChairFrame",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "eta": "/texture/eta/Al",
-                "k": "/texture/k/Al"
-            },
-            "vector_textures": {
-                "alpha": "/texture/ChairFrame/alpha"
-            }
+            "eta": "/texture/eta/Al",
+            "k": "/texture/k/Al",
+            "alpha": "/texture/ChairFrame/alpha"
         }
     },
     {
         "entity": "/material/ChairStainless",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "eta": "/texture/eta/Al",
-                "k": "/texture/k/Al"
-            },
-            "vector_textures": {
-                "alpha": "/texture/ChairStainless/alpha"
-            }
+            "eta": "/texture/eta/Al",
+            "k": "/texture/k/Al"
         }
     },
     {
         "entity": "/material/Floor",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Floor/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Floor/reflectance"
         }
     },
     {
         "entity": "/material/WoodFrame",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/WoodFrame/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/WoodFrame/reflectance"
         }
     },
     {
         "entity": "/material/WhiteboardFrame",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/WhiteboardFrame/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/WhiteboardFrame/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote3",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote3/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote3/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote5",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote5/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote5/reflectance"
         }
     },
     {
         "entity": "/material/StickyNote6",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote6/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote6/reflectance"
         }
     },
     {
         "entity": "/material/Speakers",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Speakers/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Speakers/reflectance"
         }
     },
     {
         "entity": "/material/Wall",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Wall/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Wall/reflectance"
         }
     },
     {
         "entity": "/material/WindowFrame",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "eta": "/texture/eta/Al",
-                "k": "/texture/k/Al"
-            },
-            "vector_textures": {
-                "alpha": "/texture/WindowFrame/alpha"
-            }
+            "eta": "/texture/eta/Al",
+            "k": "/texture/k/Al",
+            "alpha": "/texture/WindowFrame/alpha"
         }
     },
     {
         "entity": "/material/Bin1",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Bin1/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Bin1/reflectance"
         }
     },
     {
         "entity": "/material/Rubber",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/Rubber/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/Rubber/reflectance"
         }
     },
     {
         "entity": "/material/FluorescentTube",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/FluorescentTube/reflectance",
-                "eta": "/texture/FluorescentTube/eta"
-            },
-            "vector_textures": {
-                "alpha": "/texture/FluorescentTube/alpha"
-            }
+            "reflectance": "/texture/FluorescentTube/reflectance",
+            "eta": "/texture/FluorescentTube/eta"
         }
     },
     {
         "entity": "/material/StickyNote2",
-        "type": "material",
+        "type": "physical_material",
         "serialized": {
-            "bsdf": {
-                "physical": 0
-            },
-            "spectrum_textures": {
-                "reflectance": "/texture/StickyNote2/reflectance"
-            },
-            "vector_textures": {}
+            "reflectance": "/texture/StickyNote2/reflectance"
         }
     },
     {
-        "entity": "/divider/0",
+        "entity": "/divider/Walls",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/0",
-            "material": "/material/Walls"
+            "shape": "/shape/Walls",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls"
         }
     },
     {
-        "entity": "/divider/1",
+        "entity": "/divider/FluorescentTube",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/1",
-            "material": "/material/FluorescentTube"
+            "shape": "/shape/FluorescentTube",
+            "material": "/material/FluorescentTube",
+            "local_to_render": "/hierarchy/shape/FluorescentTube"
         }
     },
     {
-        "entity": "/divider/2",
+        "entity": "/divider/CeilingLight",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/2",
-            "material": "/material/CeilingLight"
+            "shape": "/shape/CeilingLight",
+            "material": "/material/CeilingLight",
+            "local_to_render": "/hierarchy/shape/CeilingLight"
         }
     },
     {
-        "entity": "/divider/3",
+        "entity": "/divider/FluorescentTube0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/3",
-            "material": "/material/FluorescentTube"
+            "shape": "/shape/FluorescentTube0",
+            "material": "/material/FluorescentTube",
+            "local_to_render": "/hierarchy/shape/FluorescentTube0"
         }
     },
     {
-        "entity": "/divider/4",
+        "entity": "/divider/Black",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/4",
-            "material": "/material/Black"
+            "shape": "/shape/Black",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black"
         }
     },
     {
-        "entity": "/divider/5",
+        "entity": "/divider/Black0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/5",
-            "material": "/material/Black"
+            "shape": "/shape/Black0",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black0"
         }
     },
     {
-        "entity": "/divider/6",
+        "entity": "/divider/BlackPlastic",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/6",
-            "material": "/material/BlackPlastic"
+            "shape": "/shape/BlackPlastic",
+            "material": "/material/BlackPlastic",
+            "local_to_render": "/hierarchy/shape/BlackPlastic"
         }
     },
     {
-        "entity": "/divider/7",
+        "entity": "/divider/Black1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/7",
-            "material": "/material/Black"
+            "shape": "/shape/Black1",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black1"
         }
     },
     {
-        "entity": "/divider/8",
+        "entity": "/divider/Projector",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/8",
-            "material": "/material/Projector"
+            "shape": "/shape/Projector",
+            "material": "/material/Projector",
+            "local_to_render": "/hierarchy/shape/Projector"
         }
     },
     {
-        "entity": "/divider/9",
+        "entity": "/divider/Projector0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/9",
-            "material": "/material/Projector"
+            "shape": "/shape/Projector0",
+            "material": "/material/Projector",
+            "local_to_render": "/hierarchy/shape/Projector0"
         }
     },
     {
-        "entity": "/divider/10",
+        "entity": "/divider/Black2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/10",
-            "material": "/material/Black"
+            "shape": "/shape/Black2",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black2"
         }
     },
     {
-        "entity": "/divider/11",
+        "entity": "/divider/Walls0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/11",
-            "material": "/material/Walls"
+            "shape": "/shape/Walls0",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls0"
         }
     },
     {
-        "entity": "/divider/12",
+        "entity": "/divider/Walls1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/12",
-            "material": "/material/Walls"
+            "shape": "/shape/Walls1",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls1"
         }
     },
     {
-        "entity": "/divider/13",
+        "entity": "/divider/Bin2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/13",
-            "material": "/material/Bin2"
+            "shape": "/shape/Bin2",
+            "material": "/material/Bin2",
+            "local_to_render": "/hierarchy/shape/Bin2"
         }
     },
     {
-        "entity": "/divider/14",
+        "entity": "/divider/Boxes1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/14",
-            "material": "/material/Boxes1"
+            "shape": "/shape/Boxes1",
+            "material": "/material/Boxes1",
+            "local_to_render": "/hierarchy/shape/Boxes1"
         }
     },
     {
-        "entity": "/divider/15",
+        "entity": "/divider/Black3",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/15",
-            "material": "/material/Black"
+            "shape": "/shape/Black3",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black3"
         }
     },
     {
-        "entity": "/divider/16",
+        "entity": "/divider/Black4",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/16",
-            "material": "/material/Black"
+            "shape": "/shape/Black4",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black4"
         }
     },
     {
-        "entity": "/divider/17",
+        "entity": "/divider/Whiteboard",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/17",
-            "material": "/material/Whiteboard"
+            "shape": "/shape/Whiteboard",
+            "material": "/material/Whiteboard",
+            "local_to_render": "/hierarchy/shape/Whiteboard"
         }
     },
     {
-        "entity": "/divider/18",
+        "entity": "/divider/Walls2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/18",
-            "material": "/material/Walls"
+            "shape": "/shape/Walls2",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls2"
         }
     },
     {
-        "entity": "/divider/19",
+        "entity": "/divider/Black5",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/19",
-            "material": "/material/Black"
+            "shape": "/shape/Black5",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black5"
         }
     },
     {
-        "entity": "/divider/20",
+        "entity": "/divider/ProjectorScreen",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/20",
-            "material": "/material/ProjectorScreen"
+            "shape": "/shape/ProjectorScreen",
+            "material": "/material/ProjectorScreen",
+            "local_to_render": "/hierarchy/shape/ProjectorScreen"
         }
     },
     {
-        "entity": "/divider/21",
+        "entity": "/divider/ScreenEnds",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/21",
-            "material": "/material/ScreenEnds"
+            "shape": "/shape/ScreenEnds",
+            "material": "/material/ScreenEnds",
+            "local_to_render": "/hierarchy/shape/ScreenEnds"
         }
     },
     {
-        "entity": "/divider/22",
+        "entity": "/divider/FlagBase",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/22",
-            "material": "/material/FlagBase"
+            "shape": "/shape/FlagBase",
+            "material": "/material/FlagBase",
+            "local_to_render": "/hierarchy/shape/FlagBase"
         }
     },
     {
-        "entity": "/divider/23",
+        "entity": "/divider/FoamEraser",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/23",
-            "material": "/material/FoamEraser"
+            "shape": "/shape/FoamEraser",
+            "material": "/material/FoamEraser",
+            "local_to_render": "/hierarchy/shape/FoamEraser"
         }
     },
     {
-        "entity": "/divider/24",
+        "entity": "/divider/ChalkHolder",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/24",
-            "material": "/material/ChalkHolder"
+            "shape": "/shape/ChalkHolder",
+            "material": "/material/ChalkHolder",
+            "local_to_render": "/hierarchy/shape/ChalkHolder"
         }
     },
     {
-        "entity": "/divider/25",
+        "entity": "/divider/ChairWood",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/25",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood"
         }
     },
     {
-        "entity": "/divider/26",
+        "entity": "/divider/ChairStainless",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/26",
-            "material": "/material/ChairStainless"
+            "shape": "/shape/ChairStainless",
+            "material": "/material/ChairStainless",
+            "local_to_render": "/hierarchy/shape/ChairStainless"
         }
     },
     {
-        "entity": "/divider/27",
+        "entity": "/divider/ChairFrame",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/27",
-            "material": "/material/ChairFrame"
+            "shape": "/shape/ChairFrame",
+            "material": "/material/ChairFrame",
+            "local_to_render": "/hierarchy/shape/ChairFrame"
         }
     },
     {
-        "entity": "/divider/28",
+        "entity": "/divider/ChairWood0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/28",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood0",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood0"
         }
     },
     {
-        "entity": "/divider/29",
+        "entity": "/divider/ChairWood1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/29",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood1",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood1"
         }
     },
     {
-        "entity": "/divider/30",
+        "entity": "/divider/ChairWood2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/30",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood2",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood2"
         }
     },
     {
-        "entity": "/divider/31",
+        "entity": "/divider/ChairWood3",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/31",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood3",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood3"
         }
     },
     {
-        "entity": "/divider/32",
+        "entity": "/divider/ChairWood4",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/32",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood4",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood4"
         }
     },
     {
-        "entity": "/divider/33",
+        "entity": "/divider/Rubber",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/33",
-            "material": "/material/Rubber"
+            "shape": "/shape/Rubber",
+            "material": "/material/Rubber",
+            "local_to_render": "/hierarchy/shape/Rubber"
         }
     },
     {
-        "entity": "/divider/34",
+        "entity": "/divider/ChairWood5",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/34",
-            "material": "/material/ChairWood"
+            "shape": "/shape/ChairWood5",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood5"
         }
     },
     {
-        "entity": "/divider/35",
+        "entity": "/divider/Floor",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/35",
-            "material": "/material/Floor"
+            "shape": "/shape/Floor",
+            "material": "/material/Floor",
+            "local_to_render": "/hierarchy/shape/Floor"
         }
     },
     {
-        "entity": "/divider/36",
+        "entity": "/divider/WoodFrame",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/36",
-            "material": "/material/WoodFrame"
+            "shape": "/shape/WoodFrame",
+            "material": "/material/WoodFrame",
+            "local_to_render": "/hierarchy/shape/WoodFrame"
         }
     },
     {
-        "entity": "/divider/37",
+        "entity": "/divider/Whiteboard2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/37",
-            "material": "/material/Whiteboard2"
+            "shape": "/shape/Whiteboard2",
+            "material": "/material/Whiteboard2",
+            "local_to_render": "/hierarchy/shape/Whiteboard2"
         }
     },
     {
-        "entity": "/divider/38",
+        "entity": "/divider/StickyNote1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/38",
-            "material": "/material/StickyNote1"
+            "shape": "/shape/StickyNote1",
+            "material": "/material/StickyNote1",
+            "local_to_render": "/hierarchy/shape/StickyNote1"
         }
     },
     {
-        "entity": "/divider/39",
+        "entity": "/divider/StickyNote2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/39",
-            "material": "/material/StickyNote2"
+            "shape": "/shape/StickyNote2",
+            "material": "/material/StickyNote2",
+            "local_to_render": "/hierarchy/shape/StickyNote2"
         }
     },
     {
-        "entity": "/divider/40",
+        "entity": "/divider/RedPencil",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/40",
-            "material": "/material/RedPencil"
+            "shape": "/shape/RedPencil",
+            "material": "/material/RedPencil",
+            "local_to_render": "/hierarchy/shape/RedPencil"
         }
     },
     {
-        "entity": "/divider/41",
+        "entity": "/divider/BluePencil",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/41",
-            "material": "/material/BluePencil"
+            "shape": "/shape/BluePencil",
+            "material": "/material/BluePencil",
+            "local_to_render": "/hierarchy/shape/BluePencil"
         }
     },
     {
-        "entity": "/divider/42",
+        "entity": "/divider/GreenPencil",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/42",
-            "material": "/material/GreenPencil"
+            "shape": "/shape/GreenPencil",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil"
         }
     },
     {
-        "entity": "/divider/43",
+        "entity": "/divider/Whiteboard3",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/43",
-            "material": "/material/Whiteboard3"
+            "shape": "/shape/Whiteboard3",
+            "material": "/material/Whiteboard3",
+            "local_to_render": "/hierarchy/shape/Whiteboard3"
         }
     },
     {
-        "entity": "/divider/44",
+        "entity": "/divider/WhiteboardFrame",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/44",
-            "material": "/material/WhiteboardFrame"
+            "shape": "/shape/WhiteboardFrame",
+            "material": "/material/WhiteboardFrame",
+            "local_to_render": "/hierarchy/shape/WhiteboardFrame"
         }
     },
     {
-        "entity": "/divider/45",
+        "entity": "/divider/Lectern",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/45",
-            "material": "/material/Lectern"
+            "shape": "/shape/Lectern",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern"
         }
     },
     {
-        "entity": "/divider/46",
+        "entity": "/divider/Lectern0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/46",
-            "material": "/material/Lectern"
+            "shape": "/shape/Lectern0",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern0"
         }
     },
     {
-        "entity": "/divider/47",
+        "entity": "/divider/Lectern1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/47",
-            "material": "/material/Lectern"
+            "shape": "/shape/Lectern1",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern1"
         }
     },
     {
-        "entity": "/divider/48",
+        "entity": "/divider/Lectern2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/48",
-            "material": "/material/Lectern"
+            "shape": "/shape/Lectern2",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern2"
         }
     },
     {
-        "entity": "/divider/49",
+        "entity": "/divider/Lectern3",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/49",
-            "material": "/material/Lectern"
+            "shape": "/shape/Lectern3",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern3"
         }
     },
     {
-        "entity": "/divider/50",
+        "entity": "/divider/Hallway",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/50",
-            "material": "/material/Hallway"
+            "shape": "/shape/Hallway",
+            "material": "/material/Hallway",
+            "local_to_render": "/hierarchy/shape/Hallway"
         }
     },
     {
-        "entity": "/divider/51",
+        "entity": "/divider/WoodFrame0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/51",
-            "material": "/material/WoodFrame"
+            "shape": "/shape/WoodFrame0",
+            "material": "/material/WoodFrame",
+            "local_to_render": "/hierarchy/shape/WoodFrame0"
         }
     },
     {
-        "entity": "/divider/52",
+        "entity": "/divider/Whiteboard20",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/52",
-            "material": "/material/Whiteboard2"
+            "shape": "/shape/Whiteboard20",
+            "material": "/material/Whiteboard2",
+            "local_to_render": "/hierarchy/shape/Whiteboard20"
         }
     },
     {
-        "entity": "/divider/53",
+        "entity": "/divider/BluePencil0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/53",
-            "material": "/material/BluePencil"
+            "shape": "/shape/BluePencil0",
+            "material": "/material/BluePencil",
+            "local_to_render": "/hierarchy/shape/BluePencil0"
         }
     },
     {
-        "entity": "/divider/54",
+        "entity": "/divider/GreenPencil0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/54",
-            "material": "/material/GreenPencil"
+            "shape": "/shape/GreenPencil0",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil0"
         }
     },
     {
-        "entity": "/divider/55",
+        "entity": "/divider/GreenPencil1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/55",
-            "material": "/material/GreenPencil"
+            "shape": "/shape/GreenPencil1",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil1"
         }
     },
     {
-        "entity": "/divider/56",
+        "entity": "/divider/GreenPencil2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/56",
-            "material": "/material/GreenPencil"
+            "shape": "/shape/GreenPencil2",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil2"
         }
     },
     {
-        "entity": "/divider/57",
+        "entity": "/divider/BluePencil1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/57",
-            "material": "/material/BluePencil"
+            "shape": "/shape/BluePencil1",
+            "material": "/material/BluePencil",
+            "local_to_render": "/hierarchy/shape/BluePencil1"
         }
     },
     {
-        "entity": "/divider/58",
+        "entity": "/divider/RedPencil0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/58",
-            "material": "/material/RedPencil"
+            "shape": "/shape/RedPencil0",
+            "material": "/material/RedPencil",
+            "local_to_render": "/hierarchy/shape/RedPencil0"
         }
     },
     {
-        "entity": "/divider/59",
+        "entity": "/divider/Bookshelf",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/59",
-            "material": "/material/Bookshelf"
+            "shape": "/shape/Bookshelf",
+            "material": "/material/Bookshelf",
+            "local_to_render": "/hierarchy/shape/Bookshelf"
         }
     },
     {
-        "entity": "/divider/60",
+        "entity": "/divider/StickyNote3",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/60",
-            "material": "/material/StickyNote3"
+            "shape": "/shape/StickyNote3",
+            "material": "/material/StickyNote3",
+            "local_to_render": "/hierarchy/shape/StickyNote3"
         }
     },
     {
-        "entity": "/divider/61",
+        "entity": "/divider/StickyNote4",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/61",
-            "material": "/material/StickyNote4"
+            "shape": "/shape/StickyNote4",
+            "material": "/material/StickyNote4",
+            "local_to_render": "/hierarchy/shape/StickyNote4"
         }
     },
     {
-        "entity": "/divider/62",
+        "entity": "/divider/StickyNote5",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/62",
-            "material": "/material/StickyNote5"
+            "shape": "/shape/StickyNote5",
+            "material": "/material/StickyNote5",
+            "local_to_render": "/hierarchy/shape/StickyNote5"
         }
     },
     {
-        "entity": "/divider/63",
+        "entity": "/divider/StickyNote6",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/63",
-            "material": "/material/StickyNote6"
+            "shape": "/shape/StickyNote6",
+            "material": "/material/StickyNote6",
+            "local_to_render": "/hierarchy/shape/StickyNote6"
         }
     },
     {
-        "entity": "/divider/64",
+        "entity": "/divider/StickyNote7",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/64",
-            "material": "/material/StickyNote7"
+            "shape": "/shape/StickyNote7",
+            "material": "/material/StickyNote7",
+            "local_to_render": "/hierarchy/shape/StickyNote7"
         }
     },
     {
-        "entity": "/divider/65",
+        "entity": "/divider/StickyNote8",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/65",
-            "material": "/material/StickyNote8"
+            "shape": "/shape/StickyNote8",
+            "material": "/material/StickyNote8",
+            "local_to_render": "/hierarchy/shape/StickyNote8"
         }
     },
     {
-        "entity": "/divider/66",
+        "entity": "/divider/Black6",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/66",
-            "material": "/material/Black"
+            "shape": "/shape/Black6",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black6"
         }
     },
     {
-        "entity": "/divider/67",
+        "entity": "/divider/FlagRed",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/67",
-            "material": "/material/FlagRed"
+            "shape": "/shape/FlagRed",
+            "material": "/material/FlagRed",
+            "local_to_render": "/hierarchy/shape/FlagRed"
         }
     },
     {
-        "entity": "/divider/68",
+        "entity": "/divider/FlagWhite",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/68",
-            "material": "/material/FlagWhite"
+            "shape": "/shape/FlagWhite",
+            "material": "/material/FlagWhite",
+            "local_to_render": "/hierarchy/shape/FlagWhite"
         }
     },
     {
-        "entity": "/divider/69",
+        "entity": "/divider/Walls3",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/69",
-            "material": "/material/Walls"
+            "shape": "/shape/Walls3",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls3"
         }
     },
     {
-        "entity": "/divider/70",
+        "entity": "/divider/Speakers",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/70",
-            "material": "/material/Speakers"
+            "shape": "/shape/Speakers",
+            "material": "/material/Speakers",
+            "local_to_render": "/hierarchy/shape/Speakers"
         }
     },
     {
-        "entity": "/divider/71",
+        "entity": "/divider/FluorescentTube1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/71",
-            "material": "/material/FluorescentTube"
+            "shape": "/shape/FluorescentTube1",
+            "material": "/material/FluorescentTube",
+            "local_to_render": "/hierarchy/shape/FluorescentTube1"
         }
     },
     {
-        "entity": "/divider/72",
+        "entity": "/divider/CeilingLight0",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/72",
-            "material": "/material/CeilingLight"
+            "shape": "/shape/CeilingLight0",
+            "material": "/material/CeilingLight",
+            "local_to_render": "/hierarchy/shape/CeilingLight0"
         }
     },
     {
-        "entity": "/divider/73",
+        "entity": "/divider/Wall",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/73",
-            "material": "/material/Wall"
+            "shape": "/shape/Wall",
+            "material": "/material/Wall",
+            "local_to_render": "/hierarchy/shape/Wall"
         }
     },
     {
-        "entity": "/divider/74",
+        "entity": "/divider/WindowFrame",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/74",
-            "material": "/material/WindowFrame"
+            "shape": "/shape/WindowFrame",
+            "material": "/material/WindowFrame",
+            "local_to_render": "/hierarchy/shape/WindowFrame"
         }
     },
     {
-        "entity": "/divider/75",
+        "entity": "/divider/Bin1",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/75",
-            "material": "/material/Bin1"
+            "shape": "/shape/Bin1",
+            "material": "/material/Bin1",
+            "local_to_render": "/hierarchy/shape/Bin1"
         }
     },
     {
-        "entity": "/divider/76",
+        "entity": "/divider/Boxes10",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/76",
-            "material": "/material/Boxes1"
+            "shape": "/shape/Boxes10",
+            "material": "/material/Boxes1",
+            "local_to_render": "/hierarchy/shape/Boxes10"
         }
     },
     {
-        "entity": "/divider/77",
+        "entity": "/divider/Boxes2",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/77",
-            "material": "/material/Boxes2"
+            "shape": "/shape/Boxes2",
+            "material": "/material/Boxes2",
+            "local_to_render": "/hierarchy/shape/Boxes2"
         }
     },
     {
-        "entity": "/divider/78",
+        "entity": "/divider/Boxes11",
         "type": "divider",
         "serialized": {
-            "shape": "/hierarchy/shape/78",
-            "material": "/material/Boxes1"
+            "shape": "/shape/Boxes11",
+            "material": "/material/Boxes1",
+            "local_to_render": "/hierarchy/shape/Boxes11"
         }
     },
     {
         "entity": "/hierarchy/light/sky",
-        "type": "light",
+        "type": "sunsky_light",
         "serialized": {
             "direction": [1.1409112905665093, 2.946030511301836],
             "turbidity": 1.0,
             "albedo": 0.2,
             "aperture": 0.1919,
             "temperature": 114514,
-            "intensity": 6,
-            "sunsky": 0
+            "intensity": 6
         }
     },
     {
-        "entity": "/hierarchy/camera",
-        "type": "camera",
+        "entity": "/",
+        "type": "renderer",
         "serialized": {
-            "spp": 2048,
+            "film": { "spp": 2048 },
             "lens": {
+                "variant": "thin",
                 "focal_length": 0.03
             }
         }
-    },
-    {
-        "entity": "/tracer",
-        "type": "tracer",
-        "serialized": {}
     }
 ]
