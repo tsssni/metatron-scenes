@@ -202,10 +202,17 @@
         }
     },
     {
-        "entity": "/",
+        "entity": "/renderer/dispersion/film",
+        "type": "film",
+        "serialized": {
+            "spp": 8192
+        }
+    },
+    {
+        "entity": "/renderer/dispersion",
         "type": "renderer",
         "serialized": {
-            "film": { "spp": 8192 }
+            "film": "/renderer/dispersion/film"
         }
     }
 ]

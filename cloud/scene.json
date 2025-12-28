@@ -141,10 +141,17 @@
         }
     },
     {
-        "entity": "/",
+        "entity": "/renderer/cloud/film",
+        "type": "film",
+        "serialized": {
+            "spp": 2048
+        }
+    },
+    {
+        "entity": "/renderer/cloud",
         "type": "renderer",
         "serialized": {
-            "film": { "spp": 2048 }
+            "film": "/renderer/cloud/film"
         }
     }
 ]

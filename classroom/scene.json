@@ -3036,14 +3036,25 @@
         }
     },
     {
-        "entity": "/",
+        "entity": "/renderer/dispersion/lens",
+        "type": "thin_lens",
+        "serialized": {
+            "focal_length": 0.03
+        }
+    },
+    {
+        "entity": "/renderer/dispersion/film",
+        "type": "film",
+        "serialized": {
+            "spp": 2048
+        }
+    },
+    {
+        "entity": "/renderer/dispersion",
         "type": "renderer",
         "serialized": {
-            "film": { "spp": 2048 },
-            "lens": {
-                "variant": "thin",
-                "focal_length": 0.03
-            }
+            "lens": "/renderer/dispersion/lens",
+            "film": "/renderer/dispersion/film"
         }
     }
 ]

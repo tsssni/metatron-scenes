@@ -338,16 +338,27 @@
         }
     },
     {
-        "entity": "/",
+        "entity": "/renderer/teapot/lens",
+        "type": "thin_lens",
+        "serialized": {
+            "aperture": 5.6,
+            "focal_length": 0.05,
+            "focus_distance": 10.0
+        }
+    },
+    {
+        "entity": "/renderer/teapot/film",
+        "type": "film",
+        "serialized": {
+            "spp": 1024
+        }
+    },
+    {
+        "entity": "/renderer/teapot",
         "type": "renderer",
         "serialized": {
-            "film": { "spp": 1024 },
-            "lens": {
-                "variant": "thin",
-                "aperture": 5.6,
-                "focal_length": 0.05,
-                "focus_distance": 10.0
-            }
+            "lens": "/renderer/teapot/lens",
+            "film": "/renderer/teapot/film"
         }
     }
 ]
