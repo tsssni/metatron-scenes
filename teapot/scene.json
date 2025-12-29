@@ -194,24 +194,10 @@
         }
     },
     {
-        "entity": "/texture/lid/alpha",
-        "type": "constant_vector_texture",
-        "serialized": {
-            "x": [0.001, 0.001, 0.001, 0.001]
-        }
-    },
-    {
         "entity": "/texture/body/eta",
         "type": "constant_spectrum_texture",
         "serialized": {
             "x": "/spectrum/body/eta"
-        }
-    },
-    {
-        "entity": "/texture/body/alpha",
-        "type": "constant_vector_texture",
-        "serialized": {
-            "x": [0.001, 0.001, 0.001, 0.001]
         }
     },
     {
@@ -222,24 +208,10 @@
         }
     },
     {
-        "entity": "/texture/int/alpha",
-        "type": "constant_vector_texture",
-        "serialized": {
-            "x": [0.001, 0.001, 0.001, 0.001]
-        }
-    },
-    {
         "entity": "/texture/ext/eta",
         "type": "constant_spectrum_texture",
         "serialized": {
             "x": "/spectrum/ext/eta"
-        }
-    },
-    {
-        "entity": "/texture/ext/alpha",
-        "type": "constant_vector_texture",
-        "serialized": {
-            "x": [0.001, 0.001, 0.001, 0.001]
         }
     },
     {
@@ -253,32 +225,28 @@
         "entity": "/material/lid",
         "type": "physical_material",
         "serialized": {
-            "eta": "/texture/lid/eta",
-            "alpha": "/texture/lid/alpha"
+            "eta": "/texture/lid/eta"
         }
     },
     {
         "entity": "/material/body",
         "type": "physical_material",
         "serialized": {
-            "eta": "/texture/body/eta",
-            "alpha": "/texture/body/alpha"
+            "eta": "/texture/body/eta"
         }
     },
     {
         "entity": "/material/int",
         "type": "physical_material",
         "serialized": {
-            "eta": "/texture/int/eta",
-            "alpha": "/texture/int/alpha"
+            "eta": "/texture/int/eta"
         }
     },
     {
         "entity": "/material/ext",
         "type": "physical_material",
         "serialized": {
-            "eta": "/texture/ext/eta",
-            "alpha": "/texture/ext/alpha"
+            "eta": "/texture/ext/eta"
         }
     },
     {
