@@ -205,7 +205,8 @@
         "entity": "/renderer/dispersion/film",
         "type": "film",
         "serialized": {
-            "spp": 8192
+            "depth": 64,
+            "spp": 16384
         }
     },
     {

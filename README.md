@@ -6,15 +6,15 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 ## Classroom
 
 - Credit: [NovaAshbell](https://blendswap.com/blend/13632)([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Resolution: 1280x720
-- Samples: 2048
+- Resolution: 1920x1080
+- Samples: 16384
 
 ![classroom](https://github.com/tsssni/metatron-scenes/raw/master/classroom/classroom.png)
 
 ## Cloud
 
 - Credit: [Disney](https://media.disneyanimation.com/uploads/production/data_set_asset/1/asset/Cloud_Readme.pdf)([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
-- Resolution: 1280x720
+- Resolution: 1920x1080
 - Samples: 2048
 
 ![cloud](https://github.com/tsssni/metatron-scenes/raw/master/cloud/cloud.png)
@@ -22,8 +22,8 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 ## Dispersion
 
 - Credit: [Yasutoshi Mori](https://github.com/MirageYM)([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))
-- Resolution: 1280x720
-- Samples: 8192
+- Resolution: 1920x1080
+- Samples: 16384
 - Tonemapping: GIMP Mantiuk 2006 (contrast = 0.1, saturation = 2.0, detail = 1.0, exposure = 0.5)
 
 ![dispersion](https://github.com/tsssni/metatron-scenes/raw/master/dispersion/dispersion.png)
@@ -31,7 +31,7 @@ Scenes for [metatron](https://github.com/tsssni/metatron)
 ## Teapot
 
 - Credit: [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))
-- Resolution: 1280x720
-- Samples: 1024
+- Resolution: 1920x1080
+- Samples: 16384
 
 ![teapot](https://github.com/tsssni/metatron-scenes/raw/master/teapot/teapot.png)

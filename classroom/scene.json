@@ -3025,7 +3025,7 @@
     },
     {
         "entity": "/hierarchy/light/sky",
-        "type": "sunsky_light",
+        "type": "atomosphere_light",
         "serialized": {
             "direction": [1.1409112905665093, 2.946030511301836],
             "turbidity": 1.0,
@@ -3046,7 +3046,8 @@
         "entity": "/renderer/dispersion/film",
         "type": "film",
         "serialized": {
-            "spp": 2048
+            "depth": 16,
+            "spp": 16384
         }
     },
     {

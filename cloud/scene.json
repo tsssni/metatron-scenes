@@ -134,7 +134,7 @@
     },
     {
         "entity": "/hierarchy/light/sky",
-        "type": "sunsky_light",
+        "type": "atomosphere_light",
         "serialized": {
             "direction": [0.6982009, 5.8468122],
             "aperture": 0.1919
@@ -144,6 +144,7 @@
         "entity": "/renderer/cloud/film",
         "type": "film",
         "serialized": {
+            "depth": 64,
             "spp": 2048
         }
     },

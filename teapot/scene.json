@@ -318,7 +318,8 @@
         "entity": "/renderer/teapot/film",
         "type": "film",
         "serialized": {
-            "spp": 1024
+            "depth": 64,
+            "spp": 16384
         }
     },
     {
