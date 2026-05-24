@@ -3036,14 +3036,14 @@
         }
     },
     {
-        "entity": "/renderer/dispersion/lens",
+        "entity": "/renderer/classroom/lens",
         "type": "thin_lens",
         "serialized": {
             "focal_length": 0.03
         }
     },
     {
-        "entity": "/renderer/dispersion/film",
+        "entity": "/renderer/classroom/film",
         "type": "film",
         "serialized": {
             "depth": 16,
@@ -3051,11 +3051,11 @@
         }
     },
     {
-        "entity": "/renderer/dispersion",
+        "entity": "/renderer/classroom",
         "type": "renderer",
         "serialized": {
-            "lens": "/renderer/dispersion/lens",
-            "film": "/renderer/dispersion/film"
+            "lens": "/renderer/classroom/lens",
+            "film": "/renderer/classroom/film"
         }
     }
 ]
