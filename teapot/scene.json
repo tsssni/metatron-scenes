@@ -306,7 +306,32 @@
         }
     },
     {
-        "entity": "/renderer/teapot/lens",
+        "entity": "/integrator",
+        "type": "radiative_integrator",
+        "serialized": {}
+    },
+    {
+        "entity": "/accel",
+        "type": "hwbvh",
+        "serialized": {}
+    },
+    {
+        "entity": "/emitter",
+        "type": "uniform_emitter",
+        "serialized": {}
+    },
+    {
+        "entity": "/sampler",
+        "type": "heitz_sampler",
+        "serialized": {}
+    },
+    {
+        "entity": "/filter",
+        "type": "lanczos_filter",
+        "serialized": {}
+    },
+    {
+        "entity": "/lens",
         "type": "thin_lens",
         "serialized": {
             "aperture": 5.6,
@@ -315,19 +340,11 @@
         }
     },
     {
-        "entity": "/renderer/teapot/film",
+        "entity": "/film",
         "type": "film",
         "serialized": {
             "depth": 64,
             "spp": 16384
-        }
-    },
-    {
-        "entity": "/renderer/teapot",
-        "type": "renderer",
-        "serialized": {
-            "lens": "/renderer/teapot/lens",
-            "film": "/renderer/teapot/film"
         }
     }
 ]

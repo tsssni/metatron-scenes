@@ -202,18 +202,43 @@
         }
     },
     {
-        "entity": "/renderer/dispersion/film",
-        "type": "film",
+        "entity": "/integrator",
+        "type": "restir_integrator",
         "serialized": {
-            "depth": 64,
-            "spp": 16384
+            "reuse_iterations": 1
         }
     },
     {
-        "entity": "/renderer/dispersion",
-        "type": "renderer",
+        "entity": "/accel",
+        "type": "hwbvh",
+        "serialized": {}
+    },
+    {
+        "entity": "/emitter",
+        "type": "uniform_emitter",
+        "serialized": {}
+    },
+    {
+        "entity": "/sampler",
+        "type": "z_sobol_sampler",
+        "serialized": {}
+    },
+    {
+        "entity": "/filter",
+        "type": "lanczos_filter",
+        "serialized": {}
+    },
+    {
+        "entity": "/lens",
+        "type": "thin_lens",
+        "serialized": {}
+    },
+    {
+        "entity": "/film",
+        "type": "film",
         "serialized": {
-            "film": "/renderer/dispersion/film"
+            "depth": 64,
+            "spp": 8192
         }
     }
 ]

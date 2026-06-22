@@ -141,18 +141,41 @@
         }
     },
     {
-        "entity": "/renderer/cloud/film",
+        "entity": "/integrator",
+        "type": "radiative_integrator",
+        "serialized": {}
+    },
+    {
+        "entity": "/accel",
+        "type": "hwbvh",
+        "serialized": {}
+    },
+    {
+        "entity": "/emitter",
+        "type": "uniform_emitter",
+        "serialized": {}
+    },
+    {
+        "entity": "/sampler",
+        "type": "heitz_sampler",
+        "serialized": {}
+    },
+    {
+        "entity": "/filter",
+        "type": "lanczos_filter",
+        "serialized": {}
+    },
+    {
+        "entity": "/lens",
+        "type": "thin_lens",
+        "serialized": {}
+    },
+    {
+        "entity": "/film",
         "type": "film",
         "serialized": {
             "depth": 64,
             "spp": 2048
-        }
-    },
-    {
-        "entity": "/renderer/cloud",
-        "type": "renderer",
-        "serialized": {
-            "film": "/renderer/cloud/film"
         }
     }
 ]
