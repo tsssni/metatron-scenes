@@ -1,0 +1,3078 @@
+[
+    {
+        "entity": "/hierarchy/shape/Walls",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FluorescentTube",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/CeilingLight",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FluorescentTube0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/BlackPlastic",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Projector",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Projector0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Walls0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Walls1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Bin2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Boxes1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, -0.07342231273651123, -0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black3",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black4",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Whiteboard",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Walls2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black5",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ProjectorScreen",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ScreenEnds",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FlagBase",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FoamEraser",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChalkHolder",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairStainless",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairFrame",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood3",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood4",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Rubber",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ChairWood5",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Floor",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [11.651670455932617, 11.651670455932617, 11.651670455932617],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/WoodFrame",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Whiteboard2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/RedPencil",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/BluePencil",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/GreenPencil",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Whiteboard3",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/WhiteboardFrame",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Lectern",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Lectern0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Lectern1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Lectern2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Lectern3",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Hallway",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/WoodFrame0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Whiteboard20",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/BluePencil0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/GreenPencil0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/GreenPencil1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/GreenPencil2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/BluePencil1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/RedPencil0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Bookshelf",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote3",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote4",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote5",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote6",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote7",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/StickyNote8",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Black6",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FlagRed",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FlagWhite",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Walls3",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Speakers",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/FluorescentTube1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/CeilingLight0",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Wall",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/WindowFrame",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Bin1",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Boxes10",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, -0.07342231273651123, -0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Boxes2",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, -0.07342231273651123, -0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/Boxes11",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, -0.07342231273651123, -0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0, 1.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/light/sky",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0, 0, 0, 1]
+        }
+    },
+    {
+        "entity": "/hierarchy/camera",
+        "type": "look_at_transform",
+        "serialized": {
+            "position": [-1.690487027168274, 1.2715795040130615, -5.886528015136719],
+            "look_at": [-0.7776312828063965, 1.4423744678497314, 0.07520569860935211],
+            "up": [0.0, 1.0, -0.0]
+        }
+    },
+    {
+        "entity": "/spectrum/Walls/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.6540709733963013, 0.6740800142288208, 0.800000011920929],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/FlagRed/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.800000011920929, 0.008213999681174755, 0.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/FlagWhite/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [1.0, 1.0, 1.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/FlagBase/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.7796609997749329, 0.6531620025634766, 0.3491879999637604],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/ChalkHolder/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.800000011920929, 0.6449009776115417, 0.4121190011501312],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/ProjectorScreen/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [1.0, 1.0, 1.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote1/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Whiteboard/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [1.0, 1.0, 1.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote7/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote8/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Bin2/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.800000011920929, 0.7175089716911316, 0.19045600295066833],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Boxes2/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.800000011920929, 0.7916420102119446, 0.38839900493621826],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Boxes1/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.6399999856948853, 0.47218799591064453, 0.3192330002784729],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote4/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Whiteboard2/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.79311, 0.79311, 0.79311],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/BluePencil/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.0, 0.030764000490307808, 0.800000011920929],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/GreenPencil/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.14567600190639496, 0.6399999856948853, 0.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/RedPencil/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.6266509890556335, 0.0, 0.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Bookshelf/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.4913010001182556, 0.3051770031452179, 0.800000011920929],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Hallway/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.784314, 0.784314, 0.784314],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/CeilingLight/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.647814, 0.647814, 0.647814],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/CeilingLight/eta",
+        "type": "constant_spectrum",
+        "serialized": {
+            "x": 1.5
+        }
+    },
+    {
+        "entity": "/spectrum/Black/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.00631, 0.00631, 0.00631],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/BlackPlastic/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.00631, 0.00631, 0.00631],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/BlackPlastic/eta",
+        "type": "constant_spectrum",
+        "serialized": {
+            "x": 1.5
+        }
+    },
+    {
+        "entity": "/spectrum/Projector/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.00631, 0.00631, 0.00631],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/ScreenEnds/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.028991, 0.028991, 0.028991],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/FoamEraser/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.684615, 0.684615, 0.684615],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Whiteboard3/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [1.0, 1.0, 1.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Whiteboard3/eta",
+        "type": "constant_spectrum",
+        "serialized": {
+            "x": 1.5
+        }
+    },
+    {
+        "entity": "/spectrum/ChairWood/eta",
+        "type": "constant_spectrum",
+        "serialized": {
+            "x": 1.5
+        }
+    },
+    {
+        "entity": "/spectrum/Floor/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.6592240333557129, 0.5924380421638489, 0.517401397228241],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/WhiteboardFrame/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.056173, 0.056173, 0.056173],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote3/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote5/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote6/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Speakers/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.03598, 0.03598, 0.03598],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Wall/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.4508373439311981, 0.4536627233028412, 0.49960458278656006],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Bin1/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.32712534070014954, 0.5785964727401733, 0.2805613875389099],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/Rubber/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.6870308518409729, 0.7154654264450073, 0.5604991912841797],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/FluorescentTube/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/FluorescentTube/eta",
+        "type": "constant_spectrum",
+        "serialized": {
+            "x": 1.5
+        }
+    },
+    {
+        "entity": "/spectrum/StickyNote2/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.612066, 0.612066, 0.612066],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/shape/Walls",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh036.obj"
+        }
+    },
+    {
+        "entity": "/shape/FluorescentTube",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh048.obj"
+        }
+    },
+    {
+        "entity": "/shape/CeilingLight",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh062.obj"
+        }
+    },
+    {
+        "entity": "/shape/FluorescentTube0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh038.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh054.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh077.obj"
+        }
+    },
+    {
+        "entity": "/shape/BlackPlastic",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh052.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh061.obj"
+        }
+    },
+    {
+        "entity": "/shape/Projector",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh031.obj"
+        }
+    },
+    {
+        "entity": "/shape/Projector0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh030.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh057.obj"
+        }
+    },
+    {
+        "entity": "/shape/Walls0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh023.obj"
+        }
+    },
+    {
+        "entity": "/shape/Walls1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh027.obj"
+        }
+    },
+    {
+        "entity": "/shape/Bin2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh047.obj"
+        }
+    },
+    {
+        "entity": "/shape/Boxes1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh049.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black3",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh022.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black4",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh029.obj"
+        }
+    },
+    {
+        "entity": "/shape/Whiteboard",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh033.obj"
+        }
+    },
+    {
+        "entity": "/shape/Walls2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh040.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black5",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh028.obj"
+        }
+    },
+    {
+        "entity": "/shape/ProjectorScreen",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh076.obj"
+        }
+    },
+    {
+        "entity": "/shape/ScreenEnds",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh050.obj"
+        }
+    },
+    {
+        "entity": "/shape/FlagBase",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh055.obj"
+        }
+    },
+    {
+        "entity": "/shape/FoamEraser",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh053.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChalkHolder",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh058.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh060.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairStainless",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh063.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairFrame",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh064.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh037.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh067.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh073.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood3",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh024.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood4",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh041.obj"
+        }
+    },
+    {
+        "entity": "/shape/Rubber",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh026.obj"
+        }
+    },
+    {
+        "entity": "/shape/ChairWood5",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh069.obj"
+        }
+    },
+    {
+        "entity": "/shape/Floor",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh035.obj"
+        }
+    },
+    {
+        "entity": "/shape/WoodFrame",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh043.obj"
+        }
+    },
+    {
+        "entity": "/shape/Whiteboard2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh072.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh045.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh044.obj"
+        }
+    },
+    {
+        "entity": "/shape/RedPencil",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh074.obj"
+        }
+    },
+    {
+        "entity": "/shape/BluePencil",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh070.obj"
+        }
+    },
+    {
+        "entity": "/shape/GreenPencil",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh078.obj"
+        }
+    },
+    {
+        "entity": "/shape/Whiteboard3",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh021.obj"
+        }
+    },
+    {
+        "entity": "/shape/WhiteboardFrame",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh018.obj"
+        }
+    },
+    {
+        "entity": "/shape/Lectern",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh017.obj"
+        }
+    },
+    {
+        "entity": "/shape/Lectern0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh066.obj"
+        }
+    },
+    {
+        "entity": "/shape/Lectern1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh056.obj"
+        }
+    },
+    {
+        "entity": "/shape/Lectern2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh016.obj"
+        }
+    },
+    {
+        "entity": "/shape/Lectern3",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh015.obj"
+        }
+    },
+    {
+        "entity": "/shape/Hallway",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh014.obj"
+        }
+    },
+    {
+        "entity": "/shape/WoodFrame0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh025.obj"
+        }
+    },
+    {
+        "entity": "/shape/Whiteboard20",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh046.obj"
+        }
+    },
+    {
+        "entity": "/shape/BluePencil0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh012.obj"
+        }
+    },
+    {
+        "entity": "/shape/GreenPencil0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh011.obj"
+        }
+    },
+    {
+        "entity": "/shape/GreenPencil1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh010.obj"
+        }
+    },
+    {
+        "entity": "/shape/GreenPencil2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh009.obj"
+        }
+    },
+    {
+        "entity": "/shape/BluePencil1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh008.obj"
+        }
+    },
+    {
+        "entity": "/shape/RedPencil0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh059.obj"
+        }
+    },
+    {
+        "entity": "/shape/Bookshelf",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh065.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote3",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh032.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote4",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh007.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote5",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh075.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote6",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh071.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote7",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh039.obj"
+        }
+    },
+    {
+        "entity": "/shape/StickyNote8",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh006.obj"
+        }
+    },
+    {
+        "entity": "/shape/Black6",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh051.obj"
+        }
+    },
+    {
+        "entity": "/shape/FlagRed",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh013.obj"
+        }
+    },
+    {
+        "entity": "/shape/FlagWhite",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh005.obj"
+        }
+    },
+    {
+        "entity": "/shape/Walls3",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh042.obj"
+        }
+    },
+    {
+        "entity": "/shape/Speakers",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh003.obj"
+        }
+    },
+    {
+        "entity": "/shape/FluorescentTube1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh020.obj"
+        }
+    },
+    {
+        "entity": "/shape/CeilingLight0",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh002.obj"
+        }
+    },
+    {
+        "entity": "/shape/Wall",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh019.obj"
+        }
+    },
+    {
+        "entity": "/shape/WindowFrame",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh068.obj"
+        }
+    },
+    {
+        "entity": "/shape/Bin1",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh001.obj"
+        }
+    },
+    {
+        "entity": "/shape/Boxes10",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh004.obj"
+        }
+    },
+    {
+        "entity": "/shape/Boxes2",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh034.obj"
+        }
+    },
+    {
+        "entity": "/shape/Boxes11",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/Mesh000.obj"
+        }
+    },
+    {
+        "entity": "/texture/Walls/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Walls/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Lectern/reflectance",
+        "type": "image_spectrum_texture",
+        "serialized": {
+            "path": "texture/wood1.jpg",
+            "type": "albedo",
+            "distr": "none"
+        }
+    },
+    {
+        "entity": "/texture/FlagRed/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/FlagRed/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/FlagWhite/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/FlagWhite/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/FlagBase/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/FlagBase/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/ChalkHolder/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/ChalkHolder/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/ProjectorScreen/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/ProjectorScreen/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote1/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote1/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Whiteboard/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Whiteboard/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote7/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote7/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote8/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote8/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Bin2/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Bin2/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Boxes2/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Boxes2/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Boxes1/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Boxes1/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote4/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote4/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Whiteboard2/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Whiteboard2/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/BluePencil/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/BluePencil/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/GreenPencil/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/GreenPencil/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/RedPencil/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/RedPencil/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Bookshelf/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Bookshelf/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Hallway/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Hallway/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/CeilingLight/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/CeilingLight/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/CeilingLight/eta",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/CeilingLight/eta"
+        }
+    },
+    {
+        "entity": "/texture/CeilingLight/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.1, 0.1, 0.1, 0.1]
+        }
+    },
+    {
+        "entity": "/texture/Black/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Black/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/BlackPlastic/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/BlackPlastic/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/BlackPlastic/eta",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/BlackPlastic/eta"
+        }
+    },
+    {
+        "entity": "/texture/BlackPlastic/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.1, 0.1, 0.1, 0.1]
+        }
+    },
+    {
+        "entity": "/texture/Projector/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Projector/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/ScreenEnds/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/ScreenEnds/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/FoamEraser/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/FoamEraser/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Whiteboard3/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Whiteboard3/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Whiteboard3/eta",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Whiteboard3/eta"
+        }
+    },
+    {
+        "entity": "/texture/Whiteboard3/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.05, 0.05, 0.05, 0.05]
+        }
+    },
+    {
+        "entity": "/texture/ChairWood/reflectance",
+        "type": "image_spectrum_texture",
+        "serialized": {
+            "path": "texture/wood2.jpg",
+            "type": "albedo",
+            "distr": "none"
+        }
+    },
+    {
+        "entity": "/texture/ChairWood/eta",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/ChairWood/eta"
+        }
+    },
+    {
+        "entity": "/texture/ChairWood/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.05, 0.05, 0.05, 0.05]
+        }
+    },
+    {
+        "entity": "/texture/ChairFrame/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.1, 0.1, 0.1, 0.1]
+        }
+    },
+    {
+        "entity": "/texture/Floor/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Floor/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/WoodFrame/reflectance",
+        "type": "image_spectrum_texture",
+        "serialized": {
+            "path": "texture/blackboard.jpg",
+            "type": "albedo",
+            "distr": "none"
+        }
+    },
+    {
+        "entity": "/texture/WhiteboardFrame/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/WhiteboardFrame/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote3/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote3/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote5/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote5/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote6/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote6/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Speakers/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Speakers/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Wall/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Wall/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/WindowFrame/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.1, 0.1, 0.1, 0.1]
+        }
+    },
+    {
+        "entity": "/texture/Bin1/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Bin1/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/Rubber/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/Rubber/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/FluorescentTube/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/FluorescentTube/reflectance"
+        }
+    },
+    {
+        "entity": "/texture/FluorescentTube/eta",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/FluorescentTube/eta"
+        }
+    },
+    {
+        "entity": "/texture/StickyNote2/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/StickyNote2/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Walls",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Walls/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Lectern",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Lectern/reflectance"
+        }
+    },
+    {
+        "entity": "/material/FlagRed",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/FlagRed/reflectance"
+        }
+    },
+    {
+        "entity": "/material/FlagWhite",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/FlagWhite/reflectance"
+        }
+    },
+    {
+        "entity": "/material/FlagBase",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/FlagBase/reflectance"
+        }
+    },
+    {
+        "entity": "/material/ChalkHolder",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/ChalkHolder/reflectance"
+        }
+    },
+    {
+        "entity": "/material/ProjectorScreen",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/ProjectorScreen/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote1",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote1/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Whiteboard",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Whiteboard/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote7",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote7/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote8",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote8/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Bin2",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Bin2/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Boxes2",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Boxes2/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Boxes1",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Boxes1/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote4",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote4/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Whiteboard2",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Whiteboard2/reflectance"
+        }
+    },
+    {
+        "entity": "/material/BluePencil",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/BluePencil/reflectance"
+        }
+    },
+    {
+        "entity": "/material/GreenPencil",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/GreenPencil/reflectance"
+        }
+    },
+    {
+        "entity": "/material/RedPencil",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/RedPencil/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Bookshelf",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Bookshelf/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Hallway",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Hallway/reflectance"
+        }
+    },
+    {
+        "entity": "/material/CeilingLight",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/CeilingLight/reflectance",
+            "eta": "/texture/CeilingLight/eta",
+            "alpha": "/texture/CeilingLight/alpha"
+        }
+    },
+    {
+        "entity": "/material/Black",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Black/reflectance"
+        }
+    },
+    {
+        "entity": "/material/BlackPlastic",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/BlackPlastic/reflectance",
+            "eta": "/texture/BlackPlastic/eta",
+            "alpha": "/texture/BlackPlastic/alpha"
+        }
+    },
+    {
+        "entity": "/material/Projector",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Projector/reflectance"
+        }
+    },
+    {
+        "entity": "/material/ScreenEnds",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/ScreenEnds/reflectance"
+        }
+    },
+    {
+        "entity": "/material/FoamEraser",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/FoamEraser/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Whiteboard3",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Whiteboard3/reflectance",
+            "eta": "/texture/Whiteboard3/eta",
+            "alpha": "/texture/Whiteboard3/alpha"
+        }
+    },
+    {
+        "entity": "/material/ChairWood",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/ChairWood/reflectance",
+            "eta": "/texture/ChairWood/eta",
+            "alpha": "/texture/ChairWood/alpha"
+        }
+    },
+    {
+        "entity": "/material/ChairFrame",
+        "type": "physical_material",
+        "serialized": {
+            "eta": "/texture/eta/Al",
+            "k": "/texture/k/Al",
+            "alpha": "/texture/ChairFrame/alpha"
+        }
+    },
+    {
+        "entity": "/material/ChairStainless",
+        "type": "physical_material",
+        "serialized": {
+            "eta": "/texture/eta/Al",
+            "k": "/texture/k/Al"
+        }
+    },
+    {
+        "entity": "/material/Floor",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Floor/reflectance"
+        }
+    },
+    {
+        "entity": "/material/WoodFrame",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/WoodFrame/reflectance"
+        }
+    },
+    {
+        "entity": "/material/WhiteboardFrame",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/WhiteboardFrame/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote3",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote3/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote5",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote5/reflectance"
+        }
+    },
+    {
+        "entity": "/material/StickyNote6",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote6/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Speakers",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Speakers/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Wall",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Wall/reflectance"
+        }
+    },
+    {
+        "entity": "/material/WindowFrame",
+        "type": "physical_material",
+        "serialized": {
+            "eta": "/texture/eta/Al",
+            "k": "/texture/k/Al",
+            "alpha": "/texture/WindowFrame/alpha"
+        }
+    },
+    {
+        "entity": "/material/Bin1",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Bin1/reflectance"
+        }
+    },
+    {
+        "entity": "/material/Rubber",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/Rubber/reflectance"
+        }
+    },
+    {
+        "entity": "/material/FluorescentTube",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/FluorescentTube/reflectance",
+            "eta": "/texture/FluorescentTube/eta"
+        }
+    },
+    {
+        "entity": "/material/StickyNote2",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/StickyNote2/reflectance"
+        }
+    },
+    {
+        "entity": "/divider/Walls",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Walls",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls"
+        }
+    },
+    {
+        "entity": "/divider/FluorescentTube",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FluorescentTube",
+            "material": "/material/FluorescentTube",
+            "local_to_render": "/hierarchy/shape/FluorescentTube"
+        }
+    },
+    {
+        "entity": "/divider/CeilingLight",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/CeilingLight",
+            "material": "/material/CeilingLight",
+            "local_to_render": "/hierarchy/shape/CeilingLight"
+        }
+    },
+    {
+        "entity": "/divider/FluorescentTube0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FluorescentTube0",
+            "material": "/material/FluorescentTube",
+            "local_to_render": "/hierarchy/shape/FluorescentTube0"
+        }
+    },
+    {
+        "entity": "/divider/Black",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black"
+        }
+    },
+    {
+        "entity": "/divider/Black0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black0",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black0"
+        }
+    },
+    {
+        "entity": "/divider/BlackPlastic",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/BlackPlastic",
+            "material": "/material/BlackPlastic",
+            "local_to_render": "/hierarchy/shape/BlackPlastic"
+        }
+    },
+    {
+        "entity": "/divider/Black1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black1",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black1"
+        }
+    },
+    {
+        "entity": "/divider/Projector",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Projector",
+            "material": "/material/Projector",
+            "local_to_render": "/hierarchy/shape/Projector"
+        }
+    },
+    {
+        "entity": "/divider/Projector0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Projector0",
+            "material": "/material/Projector",
+            "local_to_render": "/hierarchy/shape/Projector0"
+        }
+    },
+    {
+        "entity": "/divider/Black2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black2",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black2"
+        }
+    },
+    {
+        "entity": "/divider/Walls0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Walls0",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls0"
+        }
+    },
+    {
+        "entity": "/divider/Walls1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Walls1",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls1"
+        }
+    },
+    {
+        "entity": "/divider/Bin2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Bin2",
+            "material": "/material/Bin2",
+            "local_to_render": "/hierarchy/shape/Bin2"
+        }
+    },
+    {
+        "entity": "/divider/Boxes1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Boxes1",
+            "material": "/material/Boxes1",
+            "local_to_render": "/hierarchy/shape/Boxes1"
+        }
+    },
+    {
+        "entity": "/divider/Black3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black3",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black3"
+        }
+    },
+    {
+        "entity": "/divider/Black4",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black4",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black4"
+        }
+    },
+    {
+        "entity": "/divider/Whiteboard",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Whiteboard",
+            "material": "/material/Whiteboard",
+            "local_to_render": "/hierarchy/shape/Whiteboard"
+        }
+    },
+    {
+        "entity": "/divider/Walls2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Walls2",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls2"
+        }
+    },
+    {
+        "entity": "/divider/Black5",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black5",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black5"
+        }
+    },
+    {
+        "entity": "/divider/ProjectorScreen",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ProjectorScreen",
+            "material": "/material/ProjectorScreen",
+            "local_to_render": "/hierarchy/shape/ProjectorScreen"
+        }
+    },
+    {
+        "entity": "/divider/ScreenEnds",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ScreenEnds",
+            "material": "/material/ScreenEnds",
+            "local_to_render": "/hierarchy/shape/ScreenEnds"
+        }
+    },
+    {
+        "entity": "/divider/FlagBase",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FlagBase",
+            "material": "/material/FlagBase",
+            "local_to_render": "/hierarchy/shape/FlagBase"
+        }
+    },
+    {
+        "entity": "/divider/FoamEraser",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FoamEraser",
+            "material": "/material/FoamEraser",
+            "local_to_render": "/hierarchy/shape/FoamEraser"
+        }
+    },
+    {
+        "entity": "/divider/ChalkHolder",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChalkHolder",
+            "material": "/material/ChalkHolder",
+            "local_to_render": "/hierarchy/shape/ChalkHolder"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood"
+        }
+    },
+    {
+        "entity": "/divider/ChairStainless",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairStainless",
+            "material": "/material/ChairStainless",
+            "local_to_render": "/hierarchy/shape/ChairStainless"
+        }
+    },
+    {
+        "entity": "/divider/ChairFrame",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairFrame",
+            "material": "/material/ChairFrame",
+            "local_to_render": "/hierarchy/shape/ChairFrame"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood0",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood0"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood1",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood1"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood2",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood2"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood3",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood3"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood4",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood4",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood4"
+        }
+    },
+    {
+        "entity": "/divider/Rubber",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Rubber",
+            "material": "/material/Rubber",
+            "local_to_render": "/hierarchy/shape/Rubber"
+        }
+    },
+    {
+        "entity": "/divider/ChairWood5",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/ChairWood5",
+            "material": "/material/ChairWood",
+            "local_to_render": "/hierarchy/shape/ChairWood5"
+        }
+    },
+    {
+        "entity": "/divider/Floor",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Floor",
+            "material": "/material/Floor",
+            "local_to_render": "/hierarchy/shape/Floor"
+        }
+    },
+    {
+        "entity": "/divider/WoodFrame",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/WoodFrame",
+            "material": "/material/WoodFrame",
+            "local_to_render": "/hierarchy/shape/WoodFrame"
+        }
+    },
+    {
+        "entity": "/divider/Whiteboard2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Whiteboard2",
+            "material": "/material/Whiteboard2",
+            "local_to_render": "/hierarchy/shape/Whiteboard2"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote1",
+            "material": "/material/StickyNote1",
+            "local_to_render": "/hierarchy/shape/StickyNote1"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote2",
+            "material": "/material/StickyNote2",
+            "local_to_render": "/hierarchy/shape/StickyNote2"
+        }
+    },
+    {
+        "entity": "/divider/RedPencil",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/RedPencil",
+            "material": "/material/RedPencil",
+            "local_to_render": "/hierarchy/shape/RedPencil"
+        }
+    },
+    {
+        "entity": "/divider/BluePencil",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/BluePencil",
+            "material": "/material/BluePencil",
+            "local_to_render": "/hierarchy/shape/BluePencil"
+        }
+    },
+    {
+        "entity": "/divider/GreenPencil",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/GreenPencil",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil"
+        }
+    },
+    {
+        "entity": "/divider/Whiteboard3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Whiteboard3",
+            "material": "/material/Whiteboard3",
+            "local_to_render": "/hierarchy/shape/Whiteboard3"
+        }
+    },
+    {
+        "entity": "/divider/WhiteboardFrame",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/WhiteboardFrame",
+            "material": "/material/WhiteboardFrame",
+            "local_to_render": "/hierarchy/shape/WhiteboardFrame"
+        }
+    },
+    {
+        "entity": "/divider/Lectern",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Lectern",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern"
+        }
+    },
+    {
+        "entity": "/divider/Lectern0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Lectern0",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern0"
+        }
+    },
+    {
+        "entity": "/divider/Lectern1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Lectern1",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern1"
+        }
+    },
+    {
+        "entity": "/divider/Lectern2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Lectern2",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern2"
+        }
+    },
+    {
+        "entity": "/divider/Lectern3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Lectern3",
+            "material": "/material/Lectern",
+            "local_to_render": "/hierarchy/shape/Lectern3"
+        }
+    },
+    {
+        "entity": "/divider/Hallway",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Hallway",
+            "material": "/material/Hallway",
+            "local_to_render": "/hierarchy/shape/Hallway"
+        }
+    },
+    {
+        "entity": "/divider/WoodFrame0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/WoodFrame0",
+            "material": "/material/WoodFrame",
+            "local_to_render": "/hierarchy/shape/WoodFrame0"
+        }
+    },
+    {
+        "entity": "/divider/Whiteboard20",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Whiteboard20",
+            "material": "/material/Whiteboard2",
+            "local_to_render": "/hierarchy/shape/Whiteboard20"
+        }
+    },
+    {
+        "entity": "/divider/BluePencil0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/BluePencil0",
+            "material": "/material/BluePencil",
+            "local_to_render": "/hierarchy/shape/BluePencil0"
+        }
+    },
+    {
+        "entity": "/divider/GreenPencil0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/GreenPencil0",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil0"
+        }
+    },
+    {
+        "entity": "/divider/GreenPencil1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/GreenPencil1",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil1"
+        }
+    },
+    {
+        "entity": "/divider/GreenPencil2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/GreenPencil2",
+            "material": "/material/GreenPencil",
+            "local_to_render": "/hierarchy/shape/GreenPencil2"
+        }
+    },
+    {
+        "entity": "/divider/BluePencil1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/BluePencil1",
+            "material": "/material/BluePencil",
+            "local_to_render": "/hierarchy/shape/BluePencil1"
+        }
+    },
+    {
+        "entity": "/divider/RedPencil0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/RedPencil0",
+            "material": "/material/RedPencil",
+            "local_to_render": "/hierarchy/shape/RedPencil0"
+        }
+    },
+    {
+        "entity": "/divider/Bookshelf",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Bookshelf",
+            "material": "/material/Bookshelf",
+            "local_to_render": "/hierarchy/shape/Bookshelf"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote3",
+            "material": "/material/StickyNote3",
+            "local_to_render": "/hierarchy/shape/StickyNote3"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote4",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote4",
+            "material": "/material/StickyNote4",
+            "local_to_render": "/hierarchy/shape/StickyNote4"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote5",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote5",
+            "material": "/material/StickyNote5",
+            "local_to_render": "/hierarchy/shape/StickyNote5"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote6",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote6",
+            "material": "/material/StickyNote6",
+            "local_to_render": "/hierarchy/shape/StickyNote6"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote7",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote7",
+            "material": "/material/StickyNote7",
+            "local_to_render": "/hierarchy/shape/StickyNote7"
+        }
+    },
+    {
+        "entity": "/divider/StickyNote8",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/StickyNote8",
+            "material": "/material/StickyNote8",
+            "local_to_render": "/hierarchy/shape/StickyNote8"
+        }
+    },
+    {
+        "entity": "/divider/Black6",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Black6",
+            "material": "/material/Black",
+            "local_to_render": "/hierarchy/shape/Black6"
+        }
+    },
+    {
+        "entity": "/divider/FlagRed",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FlagRed",
+            "material": "/material/FlagRed",
+            "local_to_render": "/hierarchy/shape/FlagRed"
+        }
+    },
+    {
+        "entity": "/divider/FlagWhite",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FlagWhite",
+            "material": "/material/FlagWhite",
+            "local_to_render": "/hierarchy/shape/FlagWhite"
+        }
+    },
+    {
+        "entity": "/divider/Walls3",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Walls3",
+            "material": "/material/Walls",
+            "local_to_render": "/hierarchy/shape/Walls3"
+        }
+    },
+    {
+        "entity": "/divider/Speakers",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Speakers",
+            "material": "/material/Speakers",
+            "local_to_render": "/hierarchy/shape/Speakers"
+        }
+    },
+    {
+        "entity": "/divider/FluorescentTube1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/FluorescentTube1",
+            "material": "/material/FluorescentTube",
+            "local_to_render": "/hierarchy/shape/FluorescentTube1"
+        }
+    },
+    {
+        "entity": "/divider/CeilingLight0",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/CeilingLight0",
+            "material": "/material/CeilingLight",
+            "local_to_render": "/hierarchy/shape/CeilingLight0"
+        }
+    },
+    {
+        "entity": "/divider/Wall",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Wall",
+            "material": "/material/Wall",
+            "local_to_render": "/hierarchy/shape/Wall"
+        }
+    },
+    {
+        "entity": "/divider/WindowFrame",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/WindowFrame",
+            "material": "/material/WindowFrame",
+            "local_to_render": "/hierarchy/shape/WindowFrame"
+        }
+    },
+    {
+        "entity": "/divider/Bin1",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Bin1",
+            "material": "/material/Bin1",
+            "local_to_render": "/hierarchy/shape/Bin1"
+        }
+    },
+    {
+        "entity": "/divider/Boxes10",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Boxes10",
+            "material": "/material/Boxes1",
+            "local_to_render": "/hierarchy/shape/Boxes10"
+        }
+    },
+    {
+        "entity": "/divider/Boxes2",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Boxes2",
+            "material": "/material/Boxes2",
+            "local_to_render": "/hierarchy/shape/Boxes2"
+        }
+    },
+    {
+        "entity": "/divider/Boxes11",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/Boxes11",
+            "material": "/material/Boxes1",
+            "local_to_render": "/hierarchy/shape/Boxes11"
+        }
+    },
+    {
+        "entity": "/hierarchy/light/sky",
+        "type": "atomosphere_light",
+        "serialized": {
+            "direction": [1.1409112905665093, 2.946030511301836],
+            "turbidity": 1.0,
+            "albedo": 0.2,
+            "aperture": 0.1919,
+            "temperature": 114514,
+            "intensity": 6
+        }
+    },
+    {
+        "entity": "/integrator",
+        "type": "restir_integrator",
+        "serialized": {}
+    },
+    {
+        "entity": "/accel",
+        "type": "hwbvh",
+        "serialized": {}
+    },
+    {
+        "entity": "/emitter",
+        "type": "uniform_emitter",
+        "serialized": {}
+    },
+    {
+        "entity": "/sampler",
+        "type": "z_sobol_sampler",
+        "serialized": {}
+    },
+    {
+        "entity": "/filter",
+        "type": "lanczos_filter",
+        "serialized": {}
+    },
+    {
+        "entity": "/lens",
+        "type": "thin_lens",
+        "serialized": {
+            "focal_length": 0.03
+        }
+    },
+    {
+        "entity": "/film",
+        "type": "film",
+        "serialized": {
+            "depth": 16,
+            "spp": 16384
+        }
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "entity": "/hierarchy/light/env",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 1.0, 0.0, 0.0]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/floor",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/inner",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/outer",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/base",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0],
+            "rotation": [0.7071, 0.0, 0.0, 0.7071]
+        }
+    },
+    {
+        "entity": "/hierarchy/camera",
+        "type": "look_at_transform",
+        "serialized": {
+            "position": [0, 1, -1],
+            "look_at": [0, 0, 0],
+            "up": [0.0, 1.0, 0.0]
+        }
+    },
+    {
+        "entity": "/spectrum/floor/x",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.725, 0.71, 0.68],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/floor/y",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.325, 0.31, 0.25],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/kernel/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [1.0, 1.0, 1.0],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/shape/floor",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/floor.obj"
+        }
+    },
+    {
+        "entity": "/shape/inner",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/inner.obj"
+        }
+    },
+    {
+        "entity": "/shape/outer",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/outer.obj"
+        }
+    },
+    {
+        "entity": "/shape/base",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/base.obj"
+        }
+    },
+    {
+        "entity": "/texture/env",
+        "type": "image_spectrum_texture",
+        "serialized": {
+            "path": "texture/env.exr",
+            "type": "illuminant",
+            "distr": "spherical"
+        }
+    },
+    {
+        "entity": "/texture/floor/reflectance",
+        "type": "checkerboard_texture",
+        "serialized": {
+            "x": "/spectrum/floor/x",
+            "y": "/spectrum/floor/y"
+        }
+    },
+    {
+        "entity": "/texture/shell/alpha",
+        "type": "constant_vector_texture",
+        "serialized": {
+            "x": [0.01, 0.01, 0.01, 0.01]
+        }
+    },
+    {
+        "entity": "/texture/kernel/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/kernel/reflectance"
+        }
+    },
+    {
+        "entity": "/material/floor",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/floor/reflectance"
+        }
+    },
+    {
+        "entity": "/material/shell",
+        "type": "physical_material",
+        "serialized": {
+            "eta": "/texture/eta/glass-SF11",
+            "alpha": "/texture/shell/alpha"
+        }
+    },
+    {
+        "entity": "/material/kernel",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/kernel/reflectance"
+        }
+    },
+    {
+        "entity": "/divider/floor",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/floor",
+            "material": "/material/floor",
+            "local_to_render": "/hierarchy/shape/floor"
+        }
+    },
+    {
+        "entity": "/divider/inner",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/inner",
+            "material": "/material/kernel",
+            "local_to_render": "/hierarchy/shape/inner"
+        }
+    },
+    {
+        "entity": "/divider/outer",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/outer",
+            "material": "/material/shell",
+            "local_to_render": "/hierarchy/shape/outer"
+        }
+    },
+    {
+        "entity": "/divider/base",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/base",
+            "material": "/material/shell",
+            "local_to_render": "/hierarchy/shape/base"
+        }
+    },
+    {
+        "entity": "/hierarchy/light/env",
+        "type": "environment_light",
+        "serialized": {
+            "env_map": "/texture/env"
+        }
+    },
+    {
+        "entity": "/integrator",
+        "type": "restir_integrator",
+        "serialized": {
+            "reuse_iterations": 1
+        }
+    },
+    {
+        "entity": "/accel",
+        "type": "hwbvh",
+        "serialized": {}
+    },
+    {
+        "entity": "/emitter",
+        "type": "uniform_emitter",
+        "serialized": {}
+    },
+    {
+        "entity": "/sampler",
+        "type": "z_sobol_sampler",
+        "serialized": {}
+    },
+    {
+        "entity": "/filter",
+        "type": "lanczos_filter",
+        "serialized": {}
+    },
+    {
+        "entity": "/lens",
+        "type": "thin_lens",
+        "serialized": {}
+    },
+    {
+        "entity": "/film",
+        "type": "film",
+        "serialized": {
+            "depth": 64,
+            "spp": 8192
+        }
+    }
+]

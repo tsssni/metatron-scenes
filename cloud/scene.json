@@ -1,0 +1,181 @@
+[
+    {
+        "entity": "/hierarchy/camera",
+        "type": "look_at_transform",
+        "serialized": {
+            "position": [648.064, -82.473, 63.856],
+            "look_at": [6.021, 100.043, 43.679],
+            "up": [0.273, 0.962, 0.009]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/ground",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0, -1000, 0],
+            "scaling": [10000, 10000, 10000],
+            "rotation": [0, 0, 0, 1]
+        }
+    },
+    {
+        "entity": "/hierarchy/shape/bound",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [-9.984, 73.008, 42.64],
+            "scaling": [297.88799525010864, 202.49183967152402, 367.18520260436355],
+            "rotation": [0, 0, 0, 1]
+        }
+    },
+    {
+        "entity": "/hierarchy/medium/cloud",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0, 0, 0],
+            "scaling": [1, 1, 1],
+            "rotation": [0, 0, 0, 1]
+        }
+    },
+    {
+        "entity": "/hierarchy/light/sky",
+        "type": "local_transform",
+        "serialized": {
+            "translation": [0, 0, 0],
+            "scaling": [1, 1, 1],
+            "rotation": [0, 0, 0, 1]
+        }
+    },
+    {
+        "entity": "/spectrum/reflectance",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [0.2, 0.2, 0.2],
+            "type": "albedo"
+        }
+    },
+    {
+        "entity": "/spectrum/sigma-s",
+        "type": "rgb_spectrum",
+        "serialized": {
+            "c": [1.0, 1.0, 1.0],
+            "type": "unbounded"
+        }
+    },
+    {
+        "entity": "/shape/square",
+        "type": "mesh",
+        "serialized": {
+            "path": "model/square.obj"
+        }
+    },
+    {
+        "entity": "/shape/sphere",
+        "type": "sphere",
+        "serialized": {}
+    },
+    {
+        "entity": "/medium/cloud",
+        "type": "nanovdb_volume",
+        "serialized": {
+            "path": "volume/disney-cloud.nvdb"
+        }
+    },
+    {
+        "entity": "/medium/cloud",
+        "type": "heterogeneous_medium",
+        "serialized": {
+            "phase": {
+                "function": "henyey_greenstein",
+                "g": 0.877
+            },
+            "sigma_s": "/spectrum/sigma-s",
+            "dimensions": [64, 64, 64],
+            "density": "/medium/cloud",
+            "density_scale": 4
+        }
+    },
+    {
+        "entity": "/texture/reflectance",
+        "type": "constant_spectrum_texture",
+        "serialized": {
+            "x": "/spectrum/reflectance"
+        }
+    },
+    {
+        "entity": "/material/ground",
+        "type": "physical_material",
+        "serialized": {
+            "reflectance": "/texture/reflectance"
+        }
+    },
+    {
+        "entity": "/material/cloud",
+        "type": "interface_material",
+        "serialized": {}
+    },
+    {
+        "entity": "/divider/ground",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/square",
+            "material": "/material/ground",
+            "local_to_render": "/hierarchy/shape/ground"
+        }
+    },
+    {
+        "entity": "/divider/cloud",
+        "type": "divider",
+        "serialized": {
+            "shape": "/shape/sphere",
+            "int_medium": "/medium/cloud",
+            "material": "/material/cloud",
+            "local_to_render": "/hierarchy/shape/bound",
+            "int_to_render": "/hierarchy/medium/cloud"
+        }
+    },
+    {
+        "entity": "/hierarchy/light/sky",
+        "type": "atomosphere_light",
+        "serialized": {
+            "direction": [0.6982009, 5.8468122],
+            "aperture": 0.1919
+        }
+    },
+    {
+        "entity": "/integrator",
+        "type": "radiative_integrator",
+        "serialized": {}
+    },
+    {
+        "entity": "/accel",
+        "type": "hwbvh",
+        "serialized": {}
+    },
+    {
+        "entity": "/emitter",
+        "type": "uniform_emitter",
+        "serialized": {}
+    },
+    {
+        "entity": "/sampler",
+        "type": "z_sobol_sampler",
+        "serialized": {}
+    },
+    {
+        "entity": "/filter",
+        "type": "lanczos_filter",
+        "serialized": {}
+    },
+    {
+        "entity": "/lens",
+        "type": "thin_lens",
+        "serialized": {}
+    },
+    {
+        "entity": "/film",
+        "type": "film",
+        "serialized": {
+            "depth": 64,
+            "spp": 2048
+        }
+    }
+]
